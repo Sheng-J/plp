@@ -1,0 +1,3000 @@
+John travelled to the hallway. 
+Mary journeyed to the bathroom. 
+Where is John? 	 hallway 	 1 
+Daniel went back to the bathroom. 
+John moved to the bedroom. 
+Where is Mary? 	 bathroom 	 2 
+John went to the hallway. 
+Sandra journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 8 
+Sandra travelled to the hallway. 
+John went to the garden. 
+Where is Sandra? 	 hallway 	 10 
+Sandra went back to the bathroom. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 14 
+Sandra travelled to the kitchen. 
+Sandra travelled to the hallway. 
+Where is Sandra? 	 hallway 	 2 
+Mary went to the bathroom. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 5 
+Sandra travelled to the office. 
+Daniel journeyed to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Daniel journeyed to the office. 
+John moved to the hallway. 
+Where is Sandra? 	 office 	 7 
+John travelled to the bathroom. 
+John journeyed to the office. 
+Where is Daniel? 	 office 	 10 
+John travelled to the office. 
+Mary journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 2 
+Mary moved to the garden. 
+Daniel went to the office. 
+Where is Mary? 	 garden 	 4 
+John went to the hallway. 
+Mary moved to the kitchen. 
+Where is Daniel? 	 office 	 5 
+Mary travelled to the bedroom. 
+Daniel journeyed to the garden. 
+Where is Mary? 	 bedroom 	 10 
+John journeyed to the garden. 
+Sandra journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 10 
+John moved to the hallway. 
+John journeyed to the kitchen. 
+Where is John? 	 kitchen 	 2 
+Sandra travelled to the garden. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 5 
+Daniel journeyed to the office. 
+John went to the kitchen. 
+Where is John? 	 kitchen 	 8 
+Sandra journeyed to the hallway. 
+Mary went to the hallway. 
+Where is Daniel? 	 office 	 7 
+Mary went to the kitchen. 
+Sandra travelled to the garden. 
+Where is John? 	 kitchen 	 8 
+Mary journeyed to the kitchen. 
+Mary travelled to the hallway. 
+Where is Mary? 	 hallway 	 2 
+Sandra moved to the office. 
+John journeyed to the office. 
+Where is John? 	 office 	 5 
+Sandra travelled to the hallway. 
+Daniel went back to the bathroom. 
+Where is John? 	 office 	 5 
+Mary travelled to the garden. 
+Daniel moved to the bedroom. 
+Where is Sandra? 	 hallway 	 7 
+John went to the garden. 
+Sandra travelled to the office. 
+Where is Daniel? 	 bedroom 	 11 
+Sandra moved to the bedroom. 
+Mary went back to the kitchen. 
+Where is Sandra? 	 bedroom 	 1 
+Mary went to the bedroom. 
+Daniel journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 4 
+John travelled to the bathroom. 
+Daniel travelled to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+John went back to the office. 
+Sandra journeyed to the garden. 
+Where is Daniel? 	 kitchen 	 8 
+Mary journeyed to the bathroom. 
+Mary journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Sandra moved to the hallway. 
+Daniel went to the office. 
+Where is Sandra? 	 hallway 	 1 
+Sandra travelled to the kitchen. 
+John moved to the office. 
+Where is John? 	 office 	 5 
+Sandra went to the bathroom. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 8 
+Sandra journeyed to the bedroom. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+John went to the garden. 
+Sandra went to the bathroom. 
+Where is Sandra? 	 bathroom 	 14 
+Mary went back to the bedroom. 
+Mary moved to the office. 
+Where is Mary? 	 office 	 2 
+Mary went back to the bathroom. 
+Sandra moved to the hallway. 
+Where is Mary? 	 bathroom 	 4 
+Mary went to the garden. 
+Sandra went to the kitchen. 
+Where is Mary? 	 garden 	 7 
+Daniel journeyed to the bedroom. 
+John journeyed to the hallway. 
+Where is Sandra? 	 kitchen 	 8 
+Sandra moved to the office. 
+Sandra journeyed to the garden. 
+Where is Daniel? 	 bedroom 	 10 
+Sandra went to the office. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Mary went back to the bedroom. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 5 
+John journeyed to the garden. 
+Daniel went back to the hallway. 
+Where is Sandra? 	 bathroom 	 2 
+John journeyed to the bedroom. 
+Mary travelled to the kitchen. 
+Where is Daniel? 	 hallway 	 8 
+Sandra went to the bedroom. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 14 
+Mary went back to the kitchen. 
+Daniel journeyed to the hallway. 
+Where is Mary? 	 kitchen 	 1 
+Mary went back to the hallway. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 hallway 	 2 
+Sandra moved to the garden. 
+Sandra moved to the bathroom. 
+Where is Sandra? 	 bathroom 	 8 
+Daniel travelled to the bedroom. 
+John moved to the office. 
+Where is John? 	 office 	 11 
+Sandra moved to the hallway. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 14 
+John journeyed to the hallway. 
+John journeyed to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Daniel journeyed to the bedroom. 
+John journeyed to the office. 
+Where is John? 	 office 	 5 
+John moved to the garden. 
+Daniel moved to the garden. 
+Where is John? 	 garden 	 7 
+Daniel went back to the kitchen. 
+Mary journeyed to the hallway. 
+Where is John? 	 garden 	 7 
+John moved to the office. 
+Mary journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 10 
+Mary went to the bedroom. 
+Daniel journeyed to the bathroom. 
+Where is Mary? 	 bedroom 	 1 
+Mary travelled to the kitchen. 
+Daniel moved to the garden. 
+Where is Mary? 	 kitchen 	 4 
+Sandra travelled to the bedroom. 
+Mary journeyed to the hallway. 
+Where is Mary? 	 hallway 	 8 
+Sandra went back to the office. 
+Sandra went to the kitchen. 
+Where is Daniel? 	 garden 	 5 
+Sandra went to the hallway. 
+John moved to the office. 
+Where is Sandra? 	 hallway 	 13 
+Sandra went back to the hallway. 
+John moved to the hallway. 
+Where is Sandra? 	 hallway 	 1 
+John travelled to the bathroom. 
+Daniel travelled to the office. 
+Where is Daniel? 	 office 	 5 
+John moved to the office. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 8 
+Daniel went back to the bedroom. 
+Daniel went back to the garden. 
+Where is Daniel? 	 garden 	 11 
+Sandra moved to the hallway. 
+John went back to the bathroom. 
+Where is Daniel? 	 garden 	 11 
+Mary went to the kitchen. 
+John went back to the kitchen. 
+Where is John? 	 kitchen 	 2 
+Daniel went back to the hallway. 
+Daniel went to the bathroom. 
+Where is John? 	 kitchen 	 2 
+Sandra travelled to the bathroom. 
+Sandra travelled to the bedroom. 
+Where is Daniel? 	 bathroom 	 5 
+Daniel went to the kitchen. 
+Daniel moved to the office. 
+Where is Daniel? 	 office 	 11 
+Mary moved to the bathroom. 
+Mary went back to the hallway. 
+Where is Daniel? 	 office 	 11 
+Sandra journeyed to the bedroom. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 2 
+Sandra moved to the hallway. 
+Mary travelled to the office. 
+Where is Sandra? 	 hallway 	 4 
+Mary travelled to the kitchen. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 8 
+John moved to the hallway. 
+Mary went to the bedroom. 
+Where is Mary? 	 bedroom 	 11 
+John moved to the bathroom. 
+Mary went to the bathroom. 
+Where is Mary? 	 bathroom 	 14 
+John travelled to the kitchen. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Daniel went to the garden. 
+Mary went back to the office. 
+Where is John? 	 kitchen 	 1 
+Daniel journeyed to the office. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Daniel went back to the hallway. 
+Sandra went back to the bedroom. 
+Where is Daniel? 	 hallway 	 10 
+Sandra went to the garden. 
+Daniel went back to the office. 
+Where is Daniel? 	 office 	 14 
+Daniel went to the garden. 
+John travelled to the garden. 
+Where is John? 	 garden 	 2 
+John travelled to the bathroom. 
+Mary went to the garden. 
+Where is John? 	 bathroom 	 4 
+Sandra moved to the kitchen. 
+Sandra went back to the bedroom. 
+Where is Sandra? 	 bedroom 	 8 
+John journeyed to the office. 
+Sandra went to the office. 
+Where is Mary? 	 garden 	 5 
+Mary travelled to the kitchen. 
+Daniel travelled to the office. 
+Where is Daniel? 	 office 	 14 
+John travelled to the garden. 
+Sandra travelled to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary journeyed to the office. 
+Mary went to the garden. 
+Where is Mary? 	 garden 	 5 
+John went to the hallway. 
+Mary went to the bedroom. 
+Where is John? 	 hallway 	 7 
+John went to the office. 
+Sandra went back to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+John travelled to the kitchen. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 14 
+Sandra moved to the kitchen. 
+Sandra went back to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Mary journeyed to the bedroom. 
+John journeyed to the bathroom. 
+Where is John? 	 bathroom 	 5 
+Sandra moved to the bedroom. 
+Sandra travelled to the hallway. 
+Where is Sandra? 	 hallway 	 8 
+Sandra travelled to the garden. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 11 
+Daniel journeyed to the kitchen. 
+John journeyed to the office. 
+Where is Sandra? 	 bathroom 	 11 
+John travelled to the kitchen. 
+Sandra moved to the kitchen. 
+Where is John? 	 kitchen 	 1 
+Daniel went to the kitchen. 
+John journeyed to the hallway. 
+Where is Sandra? 	 kitchen 	 2 
+Mary journeyed to the bedroom. 
+Mary journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 8 
+Mary travelled to the bedroom. 
+Sandra travelled to the bedroom. 
+Where is Mary? 	 bedroom 	 10 
+John went to the office. 
+John went back to the kitchen. 
+Where is Mary? 	 bedroom 	 10 
+Mary travelled to the garden. 
+Mary moved to the bedroom. 
+Where is Mary? 	 bedroom 	 2 
+Sandra went to the bathroom. 
+Daniel travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 4 
+Mary travelled to the office. 
+Daniel moved to the hallway. 
+Where is Mary? 	 office 	 7 
+John moved to the kitchen. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 11 
+Mary journeyed to the garden. 
+John journeyed to the bedroom. 
+Where is Daniel? 	 garden 	 11 
+Mary journeyed to the office. 
+Mary moved to the hallway. 
+Where is Mary? 	 hallway 	 2 
+John journeyed to the hallway. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 5 
+Daniel travelled to the bathroom. 
+John travelled to the kitchen. 
+Where is Daniel? 	 bathroom 	 7 
+Daniel moved to the office. 
+Mary went to the garden. 
+Where is Daniel? 	 office 	 10 
+Daniel moved to the kitchen. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Daniel went to the office. 
+Daniel travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 2 
+John travelled to the kitchen. 
+John went to the bedroom. 
+Where is Daniel? 	 bathroom 	 2 
+John went to the office. 
+John journeyed to the kitchen. 
+Where is John? 	 kitchen 	 8 
+Mary moved to the kitchen. 
+John went back to the hallway. 
+Where is John? 	 hallway 	 11 
+Sandra went to the bathroom. 
+Sandra moved to the office. 
+Where is Mary? 	 kitchen 	 10 
+Sandra went back to the garden. 
+John moved to the office. 
+Where is Sandra? 	 garden 	 1 
+Sandra travelled to the bathroom. 
+Mary went back to the kitchen. 
+Where is John? 	 office 	 2 
+John went to the bathroom. 
+Daniel travelled to the bathroom. 
+Where is Mary? 	 kitchen 	 5 
+John went back to the kitchen. 
+John went to the hallway. 
+Where is Daniel? 	 bathroom 	 8 
+Daniel journeyed to the garden. 
+Daniel went back to the office. 
+Where is Daniel? 	 office 	 14 
+Daniel journeyed to the office. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+Sandra travelled to the bathroom. 
+Mary journeyed to the bathroom. 
+Where is Mary? 	 bathroom 	 5 
+John went back to the office. 
+Mary journeyed to the kitchen. 
+Where is Daniel? 	 bedroom 	 2 
+Daniel journeyed to the hallway. 
+John travelled to the bathroom. 
+Where is Daniel? 	 hallway 	 10 
+Mary travelled to the bedroom. 
+John travelled to the office. 
+Where is Mary? 	 bedroom 	 13 
+John moved to the kitchen. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 2 
+Daniel went to the garden. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 5 
+Sandra moved to the kitchen. 
+John went back to the office. 
+Where is Daniel? 	 garden 	 4 
+Mary moved to the bedroom. 
+Sandra travelled to the garden. 
+Where is Sandra? 	 garden 	 11 
+Sandra moved to the bathroom. 
+Mary journeyed to the garden. 
+Where is Sandra? 	 bathroom 	 13 
+Mary journeyed to the hallway. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+John went back to the bedroom. 
+Sandra went back to the office. 
+Where is Mary? 	 hallway 	 1 
+Sandra travelled to the bathroom. 
+John journeyed to the kitchen. 
+Where is Sandra? 	 bathroom 	 7 
+Sandra moved to the garden. 
+Mary went to the bedroom. 
+Where is Sandra? 	 garden 	 10 
+Daniel journeyed to the garden. 
+Sandra journeyed to the bedroom. 
+Where is John? 	 kitchen 	 8 
+Daniel moved to the kitchen. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Sandra travelled to the office. 
+Daniel journeyed to the office. 
+Where is Sandra? 	 office 	 4 
+Sandra went back to the bedroom. 
+John moved to the kitchen. 
+Where is John? 	 kitchen 	 8 
+Sandra travelled to the bathroom. 
+John moved to the bathroom. 
+Where is Sandra? 	 bathroom 	 10 
+Mary moved to the garden. 
+Daniel journeyed to the bathroom. 
+Where is John? 	 bathroom 	 11 
+Mary journeyed to the garden. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 2 
+Mary went to the hallway. 
+John journeyed to the hallway. 
+Where is Mary? 	 hallway 	 4 
+John moved to the bathroom. 
+Sandra went to the office. 
+Where is Mary? 	 hallway 	 4 
+Daniel travelled to the kitchen. 
+Mary travelled to the bathroom. 
+Where is Sandra? 	 office 	 8 
+Daniel travelled to the hallway. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 14 
+Daniel went to the bedroom. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 2 
+Daniel moved to the kitchen. 
+John went back to the bedroom. 
+Where is Sandra? 	 kitchen 	 2 
+Daniel journeyed to the bedroom. 
+Daniel travelled to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Sandra went back to the bathroom. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+John travelled to the garden. 
+Sandra travelled to the office. 
+Where is Daniel? 	 kitchen 	 8 
+Mary travelled to the bedroom. 
+Daniel went back to the garden. 
+Where is Daniel? 	 garden 	 2 
+Sandra moved to the garden. 
+Daniel went back to the bathroom. 
+Where is Sandra? 	 garden 	 4 
+John moved to the office. 
+Sandra travelled to the office. 
+Where is Daniel? 	 bathroom 	 5 
+Daniel went back to the office. 
+Mary moved to the office. 
+Where is Daniel? 	 office 	 10 
+John travelled to the hallway. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Mary moved to the bathroom. 
+Daniel journeyed to the bedroom. 
+Where is Mary? 	 bathroom 	 1 
+Daniel went to the garden. 
+John went to the bedroom. 
+Where is Daniel? 	 garden 	 4 
+Sandra journeyed to the office. 
+Sandra went to the bathroom. 
+Where is John? 	 bedroom 	 5 
+Sandra went to the bedroom. 
+John went back to the office. 
+Where is John? 	 office 	 11 
+Mary went back to the office. 
+Mary journeyed to the hallway. 
+Where is Mary? 	 hallway 	 14 
+Daniel moved to the bedroom. 
+Sandra journeyed to the hallway. 
+Where is Daniel? 	 bedroom 	 1 
+Mary journeyed to the kitchen. 
+Mary went back to the bathroom. 
+Where is Daniel? 	 bedroom 	 1 
+Mary journeyed to the hallway. 
+Mary went to the bedroom. 
+Where is Mary? 	 bedroom 	 8 
+Mary moved to the garden. 
+Sandra travelled to the office. 
+Where is Mary? 	 garden 	 10 
+Daniel travelled to the bathroom. 
+Sandra went back to the bathroom. 
+Where is Daniel? 	 bathroom 	 13 
+Mary went back to the hallway. 
+Sandra went back to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary went to the office. 
+Daniel travelled to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary went to the bedroom. 
+Sandra went back to the kitchen. 
+Where is Daniel? 	 garden 	 5 
+Daniel went to the kitchen. 
+John moved to the hallway. 
+Where is Daniel? 	 kitchen 	 10 
+Mary went back to the kitchen. 
+Mary moved to the bedroom. 
+Where is Mary? 	 bedroom 	 14 
+Daniel journeyed to the kitchen. 
+Daniel journeyed to the office. 
+Where is Daniel? 	 office 	 2 
+Mary travelled to the hallway. 
+John moved to the garden. 
+Where is Daniel? 	 office 	 2 
+Mary travelled to the office. 
+Mary travelled to the garden. 
+Where is John? 	 garden 	 5 
+John travelled to the hallway. 
+Sandra went back to the bathroom. 
+Where is Sandra? 	 bathroom 	 11 
+Mary moved to the hallway. 
+Daniel moved to the bedroom. 
+Where is Sandra? 	 bathroom 	 11 
+Sandra went to the kitchen. 
+Sandra went to the office. 
+Where is Sandra? 	 office 	 2 
+Sandra travelled to the hallway. 
+Sandra went back to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Mary travelled to the hallway. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 8 
+John went to the garden. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 11 
+John journeyed to the office. 
+Daniel journeyed to the kitchen. 
+Where is Sandra? 	 office 	 11 
+Mary travelled to the office. 
+Mary went back to the hallway. 
+Where is Mary? 	 hallway 	 2 
+John travelled to the hallway. 
+Daniel went back to the office. 
+Where is Mary? 	 hallway 	 2 
+John went to the office. 
+Daniel journeyed to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Mary moved to the office. 
+Mary moved to the hallway. 
+Where is Mary? 	 hallway 	 11 
+John travelled to the kitchen. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 14 
+Mary went back to the kitchen. 
+John went to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Daniel travelled to the office. 
+Sandra journeyed to the bathroom. 
+Where is Daniel? 	 office 	 4 
+Daniel went to the bedroom. 
+Mary moved to the garden. 
+Where is Mary? 	 garden 	 8 
+Mary went to the bathroom. 
+Sandra journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Sandra went back to the office. 
+John travelled to the hallway. 
+Where is Sandra? 	 office 	 13 
+Sandra travelled to the hallway. 
+Mary went back to the hallway. 
+Where is Mary? 	 hallway 	 2 
+Mary moved to the office. 
+Sandra journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+John journeyed to the bathroom. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 8 
+Sandra journeyed to the hallway. 
+John moved to the bedroom. 
+Where is Sandra? 	 hallway 	 10 
+John travelled to the hallway. 
+John journeyed to the office. 
+Where is Sandra? 	 hallway 	 10 
+John went to the office. 
+Mary travelled to the garden. 
+Where is Mary? 	 garden 	 2 
+Daniel journeyed to the kitchen. 
+Mary went back to the bedroom. 
+Where is John? 	 office 	 1 
+Mary travelled to the office. 
+John travelled to the bathroom. 
+Where is Daniel? 	 kitchen 	 4 
+Mary went to the bathroom. 
+John travelled to the kitchen. 
+Where is Mary? 	 bathroom 	 10 
+John went back to the bathroom. 
+John went back to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Mary moved to the hallway. 
+Daniel travelled to the office. 
+Where is Mary? 	 hallway 	 1 
+John went back to the hallway. 
+John moved to the office. 
+Where is John? 	 office 	 5 
+Sandra journeyed to the kitchen. 
+Mary moved to the bedroom. 
+Where is Daniel? 	 office 	 2 
+John went back to the kitchen. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 11 
+Sandra travelled to the hallway. 
+Daniel went to the bedroom. 
+Where is Sandra? 	 hallway 	 13 
+Mary moved to the hallway. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Mary travelled to the kitchen. 
+Sandra went to the garden. 
+Where is Mary? 	 kitchen 	 4 
+Sandra travelled to the hallway. 
+John went to the hallway. 
+Where is Sandra? 	 hallway 	 7 
+Daniel went to the bathroom. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 bathroom 	 10 
+Mary moved to the garden. 
+Sandra went to the kitchen. 
+Where is John? 	 hallway 	 8 
+John moved to the bathroom. 
+Sandra moved to the garden. 
+Where is John? 	 bathroom 	 1 
+John went back to the office. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 5 
+Daniel moved to the hallway. 
+Sandra moved to the bathroom. 
+Where is Daniel? 	 hallway 	 7 
+Mary went back to the bedroom. 
+Daniel went back to the bathroom. 
+Where is Mary? 	 bedroom 	 10 
+Mary went to the kitchen. 
+Mary went to the bedroom. 
+Where is Sandra? 	 bathroom 	 8 
+Mary travelled to the bedroom. 
+John went back to the hallway. 
+Where is Mary? 	 bedroom 	 1 
+John moved to the bathroom. 
+Sandra journeyed to the garden. 
+Where is John? 	 bathroom 	 4 
+Daniel moved to the kitchen. 
+John went to the hallway. 
+Where is John? 	 hallway 	 8 
+Sandra moved to the hallway. 
+John journeyed to the bathroom. 
+Where is Sandra? 	 hallway 	 10 
+Daniel went back to the garden. 
+Mary went to the garden. 
+Where is John? 	 bathroom 	 11 
+Mary travelled to the bathroom. 
+Daniel went back to the hallway. 
+Where is Mary? 	 bathroom 	 1 
+Sandra went back to the office. 
+Sandra went back to the hallway. 
+Where is Daniel? 	 hallway 	 2 
+John went back to the bathroom. 
+Daniel went to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+John moved to the kitchen. 
+Daniel went to the bedroom. 
+Where is Sandra? 	 hallway 	 5 
+Sandra journeyed to the kitchen. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Daniel travelled to the hallway. 
+John moved to the office. 
+Where is John? 	 office 	 2 
+John went to the bathroom. 
+John travelled to the office. 
+Where is Daniel? 	 hallway 	 1 
+Daniel moved to the bathroom. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 8 
+John travelled to the kitchen. 
+John went back to the bathroom. 
+Where is John? 	 bathroom 	 11 
+Sandra travelled to the office. 
+Mary travelled to the office. 
+Where is John? 	 bathroom 	 11 
+Sandra travelled to the bathroom. 
+Daniel went to the office. 
+Where is Daniel? 	 office 	 2 
+Mary went back to the garden. 
+John went back to the kitchen. 
+Where is Mary? 	 garden 	 4 
+Daniel moved to the hallway. 
+Sandra moved to the garden. 
+Where is Daniel? 	 hallway 	 7 
+John went back to the hallway. 
+Daniel went back to the office. 
+Where is Daniel? 	 office 	 11 
+Mary moved to the hallway. 
+Mary moved to the bathroom. 
+Where is John? 	 hallway 	 10 
+Daniel went to the garden. 
+Mary moved to the bedroom. 
+Where is Mary? 	 bedroom 	 2 
+Daniel journeyed to the bathroom. 
+Sandra journeyed to the bathroom. 
+Where is Mary? 	 bedroom 	 2 
+Daniel moved to the hallway. 
+Sandra journeyed to the kitchen. 
+Where is Mary? 	 bedroom 	 2 
+Sandra moved to the office. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 11 
+Mary went back to the office. 
+Daniel went back to the kitchen. 
+Where is Sandra? 	 office 	 10 
+Mary went back to the hallway. 
+Daniel went to the hallway. 
+Where is Daniel? 	 hallway 	 2 
+John travelled to the bathroom. 
+Mary moved to the kitchen. 
+Where is Mary? 	 kitchen 	 5 
+Sandra journeyed to the kitchen. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 8 
+Daniel went back to the bedroom. 
+John went back to the hallway. 
+Where is Mary? 	 garden 	 8 
+Mary moved to the office. 
+Mary went back to the kitchen. 
+Where is Mary? 	 kitchen 	 14 
+Daniel travelled to the kitchen. 
+John journeyed to the kitchen. 
+Where is John? 	 kitchen 	 2 
+Sandra moved to the kitchen. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 5 
+John travelled to the office. 
+Daniel went to the bathroom. 
+Where is Sandra? 	 garden 	 5 
+Mary went back to the kitchen. 
+Daniel moved to the kitchen. 
+Where is Sandra? 	 garden 	 5 
+Mary journeyed to the bathroom. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 14 
+Mary went back to the office. 
+Daniel went to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+Sandra moved to the bedroom. 
+Daniel travelled to the kitchen. 
+Where is Mary? 	 office 	 1 
+Daniel travelled to the garden. 
+Daniel moved to the bathroom. 
+Where is Daniel? 	 bathroom 	 8 
+Sandra journeyed to the garden. 
+John went to the bedroom. 
+Where is Daniel? 	 bathroom 	 8 
+John went back to the office. 
+John journeyed to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Sandra moved to the garden. 
+John journeyed to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Mary went back to the bedroom. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 5 
+John travelled to the bathroom. 
+Mary travelled to the garden. 
+Where is Sandra? 	 office 	 5 
+Mary moved to the kitchen. 
+Sandra went back to the garden. 
+Where is Mary? 	 kitchen 	 10 
+Mary journeyed to the hallway. 
+Mary went to the garden. 
+Where is Mary? 	 garden 	 14 
+Mary went back to the bedroom. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 2 
+Daniel journeyed to the bathroom. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 5 
+Daniel went to the hallway. 
+Sandra travelled to the hallway. 
+Where is Sandra? 	 hallway 	 8 
+John journeyed to the garden. 
+John journeyed to the office. 
+Where is John? 	 office 	 11 
+Daniel moved to the garden. 
+Mary travelled to the bathroom. 
+Where is John? 	 office 	 11 
+Sandra journeyed to the bathroom. 
+John moved to the garden. 
+Where is Sandra? 	 bathroom 	 1 
+Sandra went back to the garden. 
+Daniel moved to the kitchen. 
+Where is Sandra? 	 garden 	 4 
+Sandra travelled to the bedroom. 
+John went to the bathroom. 
+Where is Sandra? 	 bedroom 	 7 
+Daniel went back to the bathroom. 
+Mary journeyed to the bedroom. 
+Where is John? 	 bathroom 	 8 
+Daniel went to the garden. 
+Daniel journeyed to the bedroom. 
+Where is Daniel? 	 bedroom 	 14 
+John went to the bathroom. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Sandra travelled to the office. 
+Daniel went to the office. 
+Where is Sandra? 	 office 	 4 
+John moved to the office. 
+Daniel journeyed to the garden. 
+Where is Sandra? 	 office 	 4 
+Sandra went back to the bedroom. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 11 
+Daniel went back to the bathroom. 
+Mary went back to the garden. 
+Where is Daniel? 	 bathroom 	 13 
+Sandra moved to the office. 
+Daniel moved to the kitchen. 
+Where is Sandra? 	 office 	 1 
+Mary moved to the garden. 
+Mary journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Mary moved to the hallway. 
+John went to the bedroom. 
+Where is Mary? 	 hallway 	 7 
+John moved to the office. 
+Daniel went back to the hallway. 
+Where is John? 	 office 	 10 
+Daniel journeyed to the garden. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 14 
+Sandra journeyed to the office. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Daniel moved to the bedroom. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 5 
+Mary journeyed to the hallway. 
+Sandra went to the office. 
+Where is Sandra? 	 office 	 8 
+Daniel went back to the bathroom. 
+Mary travelled to the kitchen. 
+Where is Sandra? 	 office 	 8 
+Daniel went back to the garden. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 14 
+Sandra went to the bedroom. 
+John went back to the office. 
+Where is John? 	 office 	 2 
+Sandra moved to the bathroom. 
+Mary went to the garden. 
+Where is Sandra? 	 bathroom 	 4 
+Daniel travelled to the bedroom. 
+Sandra moved to the hallway. 
+Where is John? 	 office 	 2 
+John travelled to the kitchen. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 11 
+Sandra journeyed to the bathroom. 
+Mary journeyed to the bathroom. 
+Where is Sandra? 	 bathroom 	 13 
+John travelled to the kitchen. 
+Mary travelled to the kitchen. 
+Where is Mary? 	 kitchen 	 2 
+Mary went back to the bathroom. 
+Sandra travelled to the hallway. 
+Where is John? 	 kitchen 	 1 
+Mary went to the garden. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 8 
+John travelled to the office. 
+Mary travelled to the kitchen. 
+Where is Mary? 	 kitchen 	 11 
+Daniel moved to the kitchen. 
+John went to the kitchen. 
+Where is John? 	 kitchen 	 14 
+Sandra went to the garden. 
+Daniel went to the garden. 
+Where is Sandra? 	 garden 	 1 
+Sandra journeyed to the kitchen. 
+John journeyed to the hallway. 
+Where is Daniel? 	 garden 	 2 
+Mary moved to the bathroom. 
+Mary journeyed to the garden. 
+Where is John? 	 hallway 	 5 
+Mary moved to the hallway. 
+Sandra went back to the hallway. 
+Where is Mary? 	 hallway 	 10 
+Mary went back to the bathroom. 
+Daniel travelled to the bedroom. 
+Where is Mary? 	 bathroom 	 13 
+Sandra went to the bathroom. 
+Mary journeyed to the bathroom. 
+Where is Mary? 	 bathroom 	 2 
+Sandra went back to the kitchen. 
+Daniel went back to the hallway. 
+Where is Mary? 	 bathroom 	 2 
+John moved to the garden. 
+Daniel went to the office. 
+Where is Mary? 	 bathroom 	 2 
+Mary moved to the hallway. 
+John travelled to the office. 
+Where is John? 	 office 	 11 
+Daniel journeyed to the kitchen. 
+Sandra went to the office. 
+Where is Mary? 	 hallway 	 10 
+Daniel went to the bathroom. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 2 
+Daniel travelled to the bedroom. 
+Daniel journeyed to the bathroom. 
+Where is Daniel? 	 bathroom 	 5 
+Daniel journeyed to the office. 
+John journeyed to the bathroom. 
+Where is Daniel? 	 office 	 7 
+John went to the garden. 
+Sandra travelled to the bathroom. 
+Where is Daniel? 	 office 	 7 
+Mary went to the office. 
+John went back to the kitchen. 
+Where is John? 	 kitchen 	 14 
+Sandra journeyed to the garden. 
+Daniel journeyed to the garden. 
+Where is Daniel? 	 garden 	 2 
+John journeyed to the bedroom. 
+Daniel journeyed to the office. 
+Where is Sandra? 	 garden 	 1 
+Mary journeyed to the garden. 
+Sandra travelled to the hallway. 
+Where is Daniel? 	 office 	 5 
+John travelled to the garden. 
+Sandra travelled to the bedroom. 
+Where is Sandra? 	 bedroom 	 11 
+Mary moved to the hallway. 
+Mary went back to the kitchen. 
+Where is John? 	 garden 	 10 
+John travelled to the garden. 
+Mary went back to the office. 
+Where is Mary? 	 office 	 2 
+Sandra went back to the hallway. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 5 
+Mary went back to the kitchen. 
+Mary went to the office. 
+Where is Mary? 	 office 	 8 
+John went back to the bedroom. 
+Daniel went back to the kitchen. 
+Where is Mary? 	 office 	 8 
+Daniel went to the garden. 
+John moved to the kitchen. 
+Where is Daniel? 	 garden 	 13 
+Sandra moved to the garden. 
+John went to the garden. 
+Where is John? 	 garden 	 2 
+Sandra went to the bathroom. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Daniel moved to the kitchen. 
+Mary journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Daniel journeyed to the office. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 11 
+John moved to the bedroom. 
+Mary went back to the office. 
+Where is Daniel? 	 garden 	 11 
+Daniel travelled to the bedroom. 
+Sandra moved to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+John went back to the bedroom. 
+Sandra travelled to the kitchen. 
+Where is John? 	 bedroom 	 4 
+Sandra went back to the office. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 8 
+Daniel went to the kitchen. 
+John travelled to the bathroom. 
+Where is Sandra? 	 garden 	 8 
+Daniel went to the bedroom. 
+Mary went back to the office. 
+Where is Daniel? 	 bedroom 	 13 
+Daniel journeyed to the hallway. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 2 
+John travelled to the kitchen. 
+John went back to the office. 
+Where is John? 	 office 	 5 
+Mary moved to the bathroom. 
+Daniel travelled to the office. 
+Where is Sandra? 	 kitchen 	 2 
+Daniel went back to the bedroom. 
+Sandra went to the office. 
+Where is Daniel? 	 bedroom 	 10 
+Sandra went back to the garden. 
+Mary moved to the kitchen. 
+Where is Daniel? 	 bedroom 	 10 
+John journeyed to the office. 
+Sandra travelled to the garden. 
+Where is John? 	 office 	 1 
+Sandra moved to the office. 
+Daniel travelled to the hallway. 
+Where is Daniel? 	 hallway 	 5 
+John travelled to the bathroom. 
+Daniel journeyed to the garden. 
+Where is Sandra? 	 office 	 4 
+Sandra journeyed to the kitchen. 
+Sandra went back to the hallway. 
+Where is Sandra? 	 hallway 	 11 
+Mary journeyed to the bedroom. 
+Mary went back to the office. 
+Where is Sandra? 	 hallway 	 11 
+Mary moved to the bathroom. 
+Mary went to the hallway. 
+Where is Mary? 	 hallway 	 2 
+Daniel travelled to the bedroom. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 5 
+John travelled to the office. 
+Daniel travelled to the office. 
+Where is Daniel? 	 office 	 8 
+Mary went to the bedroom. 
+Sandra went back to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Sandra journeyed to the bedroom. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 14 
+Daniel went back to the hallway. 
+Mary went back to the office. 
+Where is Mary? 	 office 	 2 
+Mary went to the garden. 
+Mary went back to the kitchen. 
+Where is Daniel? 	 hallway 	 1 
+Sandra moved to the bedroom. 
+John travelled to the hallway. 
+Where is John? 	 hallway 	 8 
+Sandra went back to the garden. 
+John journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 5 
+John journeyed to the bathroom. 
+John moved to the kitchen. 
+Where is John? 	 kitchen 	 14 
+Sandra travelled to the bedroom. 
+John travelled to the garden. 
+Where is Sandra? 	 bedroom 	 1 
+Mary went to the hallway. 
+Mary went back to the bedroom. 
+Where is John? 	 garden 	 2 
+Sandra went to the kitchen. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 8 
+Daniel journeyed to the office. 
+Sandra moved to the bedroom. 
+Where is Sandra? 	 bedroom 	 11 
+Mary moved to the kitchen. 
+Mary went to the bathroom. 
+Where is Sandra? 	 bedroom 	 11 
+Sandra travelled to the bathroom. 
+Mary journeyed to the office. 
+Where is Sandra? 	 bathroom 	 1 
+Sandra travelled to the kitchen. 
+John moved to the office. 
+Where is John? 	 office 	 5 
+Mary went to the hallway. 
+John went back to the hallway. 
+Where is Mary? 	 hallway 	 7 
+John moved to the bedroom. 
+Mary moved to the garden. 
+Where is Mary? 	 garden 	 11 
+John journeyed to the bathroom. 
+Mary went back to the hallway. 
+Where is Mary? 	 hallway 	 14 
+Daniel went back to the kitchen. 
+Daniel travelled to the garden. 
+Where is Daniel? 	 garden 	 2 
+Daniel travelled to the bathroom. 
+Mary went back to the bathroom. 
+Where is Daniel? 	 bathroom 	 4 
+Mary travelled to the garden. 
+John went back to the garden. 
+Where is Mary? 	 garden 	 7 
+Daniel went to the office. 
+Daniel moved to the garden. 
+Where is John? 	 garden 	 8 
+Sandra travelled to the bathroom. 
+John moved to the bedroom. 
+Where is Daniel? 	 garden 	 11 
+Sandra travelled to the hallway. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary moved to the bedroom. 
+Daniel went to the kitchen. 
+Where is Sandra? 	 garden 	 2 
+John travelled to the hallway. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Mary travelled to the hallway. 
+John went to the office. 
+Where is Mary? 	 hallway 	 10 
+John travelled to the garden. 
+Sandra went to the kitchen. 
+Where is Daniel? 	 hallway 	 8 
+Daniel travelled to the office. 
+Daniel journeyed to the hallway. 
+Where is Daniel? 	 hallway 	 2 
+Sandra travelled to the bathroom. 
+Sandra moved to the hallway. 
+Where is Daniel? 	 hallway 	 2 
+Mary went to the garden. 
+Daniel moved to the bedroom. 
+Where is Mary? 	 garden 	 7 
+John went to the hallway. 
+Sandra travelled to the kitchen. 
+Where is Mary? 	 garden 	 7 
+Sandra moved to the garden. 
+Mary moved to the office. 
+Where is Mary? 	 office 	 14 
+Mary journeyed to the office. 
+Mary journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 2 
+Sandra went to the garden. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Sandra went to the bathroom. 
+Daniel moved to the office. 
+Where is Sandra? 	 bathroom 	 7 
+John went back to the office. 
+John went to the garden. 
+Where is Sandra? 	 bathroom 	 7 
+John went to the bedroom. 
+Mary moved to the garden. 
+Where is John? 	 bedroom 	 13 
+John travelled to the bedroom. 
+Mary went to the bathroom. 
+Where is Mary? 	 bathroom 	 2 
+Mary journeyed to the bedroom. 
+Sandra travelled to the hallway. 
+Where is John? 	 bedroom 	 1 
+Daniel went back to the hallway. 
+Sandra journeyed to the office. 
+Where is Mary? 	 bedroom 	 4 
+John moved to the garden. 
+Mary travelled to the office. 
+Where is Sandra? 	 office 	 8 
+John travelled to the kitchen. 
+Daniel went back to the kitchen. 
+Where is Mary? 	 office 	 11 
+Sandra journeyed to the kitchen. 
+Daniel journeyed to the bathroom. 
+Where is Sandra? 	 kitchen 	 1 
+Mary went to the garden. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 5 
+Sandra travelled to the bedroom. 
+John travelled to the office. 
+Where is John? 	 office 	 8 
+Sandra journeyed to the office. 
+Sandra moved to the kitchen. 
+Where is Mary? 	 office 	 5 
+Mary travelled to the bedroom. 
+Mary moved to the hallway. 
+Where is Sandra? 	 kitchen 	 11 
+Daniel travelled to the garden. 
+Mary went to the kitchen. 
+Where is Mary? 	 kitchen 	 2 
+John travelled to the bedroom. 
+Daniel journeyed to the hallway. 
+Where is Daniel? 	 hallway 	 5 
+Mary moved to the bathroom. 
+John travelled to the garden. 
+Where is Mary? 	 bathroom 	 7 
+Sandra went back to the hallway. 
+Mary travelled to the bedroom. 
+Where is Mary? 	 bedroom 	 11 
+Sandra journeyed to the office. 
+Mary went back to the bathroom. 
+Where is Sandra? 	 office 	 13 
+Daniel went back to the kitchen. 
+Daniel moved to the office. 
+Where is Daniel? 	 office 	 2 
+Daniel went back to the bedroom. 
+John moved to the garden. 
+Where is Daniel? 	 bedroom 	 4 
+Daniel travelled to the office. 
+Mary journeyed to the garden. 
+Where is Daniel? 	 office 	 7 
+Sandra went to the bathroom. 
+Mary moved to the bedroom. 
+Where is Sandra? 	 bathroom 	 10 
+Sandra moved to the garden. 
+John travelled to the hallway. 
+Where is Sandra? 	 garden 	 13 
+Sandra moved to the garden. 
+John went to the bedroom. 
+Where is John? 	 bedroom 	 2 
+John moved to the bathroom. 
+John went to the garden. 
+Where is John? 	 garden 	 5 
+John journeyed to the bedroom. 
+Sandra went to the office. 
+Where is John? 	 bedroom 	 7 
+Sandra went to the bathroom. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Sandra went to the bedroom. 
+Sandra went to the office. 
+Where is Sandra? 	 office 	 14 
+Daniel journeyed to the kitchen. 
+Sandra went to the bedroom. 
+Where is Daniel? 	 kitchen 	 1 
+Daniel went back to the hallway. 
+Mary went back to the office. 
+Where is Daniel? 	 hallway 	 4 
+Mary went to the garden. 
+Daniel journeyed to the office. 
+Where is Sandra? 	 bedroom 	 2 
+Sandra went to the bathroom. 
+John travelled to the bedroom. 
+Where is Mary? 	 garden 	 7 
+Sandra went to the kitchen. 
+Daniel travelled to the bedroom. 
+Where is Sandra? 	 kitchen 	 13 
+John went back to the bathroom. 
+John went to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Daniel travelled to the bedroom. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 5 
+Daniel went back to the bathroom. 
+Sandra journeyed to the bathroom. 
+Where is Sandra? 	 bathroom 	 8 
+Mary journeyed to the office. 
+Daniel went to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+Sandra journeyed to the bedroom. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 14 
+Mary travelled to the hallway. 
+Daniel journeyed to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+John went back to the garden. 
+Sandra journeyed to the bathroom. 
+Where is Daniel? 	 bedroom 	 2 
+John went to the kitchen. 
+Sandra journeyed to the garden. 
+Where is John? 	 kitchen 	 7 
+Sandra moved to the hallway. 
+John went back to the garden. 
+Where is Sandra? 	 hallway 	 10 
+Sandra went to the bathroom. 
+Mary went to the office. 
+Where is Sandra? 	 bathroom 	 13 
+Sandra went back to the hallway. 
+Mary went back to the kitchen. 
+Where is Sandra? 	 hallway 	 1 
+John journeyed to the bathroom. 
+Daniel went back to the hallway. 
+Where is Sandra? 	 hallway 	 1 
+Sandra moved to the office. 
+Sandra journeyed to the bathroom. 
+Where is Sandra? 	 bathroom 	 8 
+Sandra journeyed to the bedroom. 
+John went to the hallway. 
+Where is Daniel? 	 hallway 	 5 
+Mary went to the bathroom. 
+Mary travelled to the bedroom. 
+Where is Mary? 	 bedroom 	 14 
+John travelled to the kitchen. 
+Sandra moved to the bathroom. 
+Where is John? 	 kitchen 	 1 
+Daniel moved to the kitchen. 
+Sandra moved to the kitchen. 
+Where is John? 	 kitchen 	 1 
+Daniel went to the hallway. 
+John went to the office. 
+Where is John? 	 office 	 8 
+Sandra went back to the garden. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 11 
+John went to the bedroom. 
+John journeyed to the bathroom. 
+Where is Sandra? 	 bedroom 	 11 
+John went to the office. 
+Sandra went to the kitchen. 
+Where is John? 	 office 	 1 
+John went back to the kitchen. 
+Mary moved to the garden. 
+Where is John? 	 kitchen 	 4 
+Mary went to the kitchen. 
+Sandra moved to the bedroom. 
+Where is Mary? 	 kitchen 	 7 
+Sandra moved to the hallway. 
+John went back to the hallway. 
+Where is Mary? 	 kitchen 	 7 
+Sandra travelled to the bedroom. 
+Daniel moved to the office. 
+Where is Daniel? 	 office 	 14 
+Mary went to the kitchen. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 2 
+John journeyed to the hallway. 
+John went back to the bathroom. 
+Where is Mary? 	 kitchen 	 1 
+Daniel went to the garden. 
+Daniel moved to the bedroom. 
+Where is John? 	 bathroom 	 5 
+Sandra went back to the bedroom. 
+John journeyed to the garden. 
+Where is Daniel? 	 bedroom 	 8 
+Mary travelled to the hallway. 
+Daniel travelled to the garden. 
+Where is John? 	 garden 	 11 
+Sandra went back to the bedroom. 
+John moved to the garden. 
+Where is Sandra? 	 bedroom 	 1 
+Daniel journeyed to the hallway. 
+Sandra travelled to the hallway. 
+Where is Daniel? 	 hallway 	 4 
+Daniel travelled to the bathroom. 
+Mary travelled to the garden. 
+Where is Daniel? 	 bathroom 	 7 
+Daniel journeyed to the garden. 
+Daniel moved to the bathroom. 
+Where is Mary? 	 garden 	 8 
+Sandra went back to the garden. 
+Daniel went to the bedroom. 
+Where is Daniel? 	 bedroom 	 14 
+Daniel travelled to the garden. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 garden 	 1 
+Daniel journeyed to the office. 
+Daniel travelled to the bathroom. 
+Where is Sandra? 	 bedroom 	 2 
+Sandra travelled to the kitchen. 
+Daniel went to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Daniel went back to the garden. 
+Sandra moved to the garden. 
+Where is Daniel? 	 garden 	 10 
+Mary moved to the bedroom. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 14 
+John went back to the bathroom. 
+John moved to the kitchen. 
+Where is John? 	 kitchen 	 2 
+Sandra moved to the office. 
+Sandra travelled to the bedroom. 
+Where is John? 	 kitchen 	 2 
+John went to the garden. 
+Sandra moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 8 
+Sandra went to the garden. 
+Daniel went to the kitchen. 
+Where is Sandra? 	 garden 	 10 
+Sandra went to the bathroom. 
+John went to the bathroom. 
+Where is Sandra? 	 bathroom 	 13 
+Daniel journeyed to the office. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 2 
+Daniel journeyed to the kitchen. 
+Mary moved to the bedroom. 
+Where is Mary? 	 bedroom 	 5 
+John went to the hallway. 
+Daniel went to the bedroom. 
+Where is John? 	 hallway 	 7 
+Daniel travelled to the hallway. 
+John moved to the garden. 
+Where is John? 	 garden 	 11 
+Mary travelled to the bathroom. 
+Sandra went to the hallway. 
+Where is Sandra? 	 hallway 	 14 
+Sandra travelled to the bathroom. 
+John went back to the office. 
+Where is Sandra? 	 bathroom 	 1 
+Sandra went back to the garden. 
+John went back to the bedroom. 
+Where is Sandra? 	 garden 	 4 
+Daniel journeyed to the hallway. 
+Daniel went to the office. 
+Where is John? 	 bedroom 	 5 
+Sandra went back to the bedroom. 
+John went to the office. 
+Where is John? 	 office 	 11 
+Mary travelled to the office. 
+John moved to the garden. 
+Where is John? 	 garden 	 14 
+Mary journeyed to the kitchen. 
+Sandra went back to the garden. 
+Where is Sandra? 	 garden 	 2 
+Daniel moved to the kitchen. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 5 
+Mary moved to the garden. 
+Mary travelled to the bathroom. 
+Where is Daniel? 	 bedroom 	 5 
+Daniel went to the office. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 11 
+Mary moved to the kitchen. 
+John went back to the office. 
+Where is John? 	 office 	 14 
+Mary moved to the hallway. 
+John went back to the bedroom. 
+Where is Mary? 	 hallway 	 1 
+Mary went back to the bathroom. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 5 
+Daniel went back to the office. 
+John moved to the hallway. 
+Where is Mary? 	 office 	 5 
+John went back to the bathroom. 
+Mary travelled to the garden. 
+Where is John? 	 bathroom 	 10 
+Daniel went back to the bathroom. 
+John went to the kitchen. 
+Where is John? 	 kitchen 	 14 
+John journeyed to the garden. 
+Mary travelled to the office. 
+Where is John? 	 garden 	 1 
+John went to the bedroom. 
+Mary went back to the bathroom. 
+Where is Mary? 	 bathroom 	 5 
+Mary journeyed to the hallway. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 8 
+Daniel moved to the hallway. 
+John travelled to the garden. 
+Where is John? 	 garden 	 11 
+John went back to the bathroom. 
+Sandra went to the bedroom. 
+Where is John? 	 bathroom 	 13 
+Sandra went back to the bedroom. 
+Mary moved to the kitchen. 
+Where is Sandra? 	 bedroom 	 1 
+Mary moved to the office. 
+Daniel travelled to the office. 
+Where is Sandra? 	 bedroom 	 1 
+Daniel travelled to the hallway. 
+John went back to the hallway. 
+Where is Daniel? 	 hallway 	 7 
+Mary moved to the bathroom. 
+Sandra journeyed to the hallway. 
+Where is John? 	 hallway 	 8 
+John went to the garden. 
+Daniel travelled to the kitchen. 
+Where is John? 	 garden 	 13 
+Sandra moved to the garden. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+Sandra went to the hallway. 
+Sandra went back to the bathroom. 
+Where is Sandra? 	 bathroom 	 5 
+Sandra journeyed to the kitchen. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+John travelled to the bedroom. 
+Daniel travelled to the kitchen. 
+Where is John? 	 bedroom 	 10 
+Sandra moved to the office. 
+Daniel moved to the bathroom. 
+Where is Daniel? 	 bathroom 	 14 
+John went to the kitchen. 
+Daniel travelled to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Sandra journeyed to the kitchen. 
+John went to the bedroom. 
+Where is John? 	 bedroom 	 5 
+Mary went to the bedroom. 
+Sandra went back to the bedroom. 
+Where is John? 	 bedroom 	 5 
+John journeyed to the garden. 
+Daniel went back to the bedroom. 
+Where is John? 	 garden 	 10 
+Daniel journeyed to the bathroom. 
+Daniel went to the kitchen. 
+Where is John? 	 garden 	 10 
+Mary moved to the kitchen. 
+Sandra travelled to the bedroom. 
+Where is Mary? 	 kitchen 	 1 
+Daniel journeyed to the office. 
+Sandra went back to the kitchen. 
+Where is Mary? 	 kitchen 	 1 
+Mary travelled to the bedroom. 
+Sandra went to the bedroom. 
+Where is Sandra? 	 bedroom 	 8 
+John travelled to the office. 
+John moved to the hallway. 
+Where is John? 	 hallway 	 11 
+Sandra went back to the kitchen. 
+Daniel moved to the kitchen. 
+Where is John? 	 hallway 	 11 
+Daniel travelled to the kitchen. 
+Sandra went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 1 
+Daniel journeyed to the garden. 
+John journeyed to the garden. 
+Where is Daniel? 	 garden 	 4 
+Daniel moved to the bathroom. 
+Sandra went back to the bedroom. 
+Where is Daniel? 	 bathroom 	 7 
+John went to the hallway. 
+Daniel journeyed to the kitchen. 
+Where is John? 	 hallway 	 10 
+Mary journeyed to the bedroom. 
+Daniel moved to the bathroom. 
+Where is Daniel? 	 bathroom 	 14 
+Mary moved to the bathroom. 
+Mary journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 2 
+Sandra journeyed to the bedroom. 
+Daniel travelled to the bedroom. 
+Where is Sandra? 	 bedroom 	 4 
+Daniel journeyed to the bathroom. 
+Daniel travelled to the office. 
+Where is Daniel? 	 office 	 8 
+Mary went back to the office. 
+Sandra moved to the bathroom. 
+Where is Daniel? 	 office 	 8 
+Daniel went back to the kitchen. 
+Daniel went back to the bedroom. 
+Where is Daniel? 	 bedroom 	 14 
+Daniel moved to the bedroom. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Mary went back to the bedroom. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 5 
+Mary journeyed to the bedroom. 
+John moved to the garden. 
+Where is Mary? 	 bedroom 	 7 
+Daniel travelled to the office. 
+Sandra travelled to the bathroom. 
+Where is Mary? 	 bedroom 	 7 
+John moved to the hallway. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 office 	 10 
+Daniel went back to the bathroom. 
+Mary went back to the bathroom. 
+Where is Mary? 	 bathroom 	 2 
+Mary went to the garden. 
+Sandra moved to the bedroom. 
+Where is Daniel? 	 bathroom 	 1 
+Mary moved to the kitchen. 
+Mary went to the bathroom. 
+Where is Sandra? 	 bedroom 	 5 
+John travelled to the hallway. 
+Daniel travelled to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+Daniel travelled to the kitchen. 
+Daniel journeyed to the garden. 
+Where is Daniel? 	 garden 	 14 
+Sandra went to the bathroom. 
+Sandra went to the office. 
+Where is Sandra? 	 office 	 2 
+Daniel went back to the office. 
+Sandra journeyed to the garden. 
+Where is Daniel? 	 office 	 4 
+Daniel went back to the hallway. 
+Sandra journeyed to the hallway. 
+Where is Daniel? 	 hallway 	 7 
+Mary travelled to the bathroom. 
+John journeyed to the bedroom. 
+Where is Daniel? 	 hallway 	 7 
+Daniel went back to the office. 
+Sandra went back to the garden. 
+Where is Sandra? 	 garden 	 14 
+Sandra went to the kitchen. 
+Mary went to the hallway. 
+Where is Mary? 	 hallway 	 2 
+John journeyed to the office. 
+Daniel went back to the office. 
+Where is Daniel? 	 office 	 5 
+Daniel went back to the kitchen. 
+Daniel travelled to the garden. 
+Where is Daniel? 	 garden 	 8 
+John travelled to the hallway. 
+John went back to the office. 
+Where is Daniel? 	 garden 	 8 
+Mary went to the bedroom. 
+Mary travelled to the hallway. 
+Where is Mary? 	 hallway 	 14 
+Mary moved to the office. 
+John moved to the garden. 
+Where is John? 	 garden 	 2 
+Sandra moved to the bedroom. 
+Sandra went back to the office. 
+Where is John? 	 garden 	 2 
+John went to the bedroom. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 8 
+Daniel went back to the hallway. 
+John journeyed to the bedroom. 
+Where is Sandra? 	 office 	 5 
+Daniel journeyed to the bathroom. 
+John travelled to the garden. 
+Where is Daniel? 	 bathroom 	 13 
+John moved to the kitchen. 
+Sandra travelled to the garden. 
+Where is Sandra? 	 garden 	 2 
+Sandra went back to the bathroom. 
+Sandra went back to the bedroom. 
+Where is Sandra? 	 bedroom 	 5 
+Sandra journeyed to the office. 
+Sandra travelled to the hallway. 
+Where is Sandra? 	 hallway 	 8 
+Daniel went back to the hallway. 
+Daniel went to the garden. 
+Where is Sandra? 	 hallway 	 8 
+Daniel went to the bedroom. 
+Sandra moved to the bedroom. 
+Where is Sandra? 	 bedroom 	 14 
+Sandra moved to the office. 
+John went back to the garden. 
+Where is John? 	 garden 	 2 
+Mary went to the office. 
+Daniel travelled to the bedroom. 
+Where is Mary? 	 office 	 4 
+Sandra travelled to the garden. 
+Daniel travelled to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+John travelled to the bedroom. 
+John went to the hallway. 
+Where is John? 	 hallway 	 11 
+Daniel moved to the bathroom. 
+Daniel travelled to the kitchen. 
+Where is Daniel? 	 kitchen 	 14 
+Sandra went back to the kitchen. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary went back to the kitchen. 
+Sandra went to the kitchen. 
+Where is Mary? 	 kitchen 	 4 
+John journeyed to the office. 
+Daniel went to the hallway. 
+Where is Mary? 	 kitchen 	 4 
+John went back to the hallway. 
+Sandra moved to the bedroom. 
+Where is John? 	 hallway 	 10 
+Mary journeyed to the hallway. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 14 
+John travelled to the bedroom. 
+Mary travelled to the bedroom. 
+Where is John? 	 bedroom 	 1 
+John journeyed to the bathroom. 
+Sandra went back to the hallway. 
+Where is John? 	 bathroom 	 4 
+John went to the office. 
+Daniel travelled to the kitchen. 
+Where is John? 	 office 	 7 
+Daniel journeyed to the bedroom. 
+John went back to the garden. 
+Where is Daniel? 	 bedroom 	 10 
+John moved to the bedroom. 
+Daniel journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 14 
+Mary travelled to the bathroom. 
+Sandra journeyed to the hallway. 
+Where is Sandra? 	 hallway 	 2 
+Mary went to the kitchen. 
+Daniel moved to the office. 
+Where is Mary? 	 kitchen 	 4 
+Daniel journeyed to the bedroom. 
+Mary travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 7 
+Sandra moved to the office. 
+Sandra went back to the bathroom. 
+Where is Daniel? 	 bedroom 	 7 
+John went back to the bathroom. 
+John moved to the office. 
+Where is Mary? 	 bedroom 	 8 
+Daniel journeyed to the kitchen. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 2 
+Mary went to the bathroom. 
+Sandra went back to the bedroom. 
+Where is Sandra? 	 bedroom 	 5 
+Sandra moved to the garden. 
+Mary went back to the bedroom. 
+Where is Sandra? 	 garden 	 7 
+Daniel moved to the bathroom. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 11 
+Sandra went back to the bedroom. 
+John moved to the garden. 
+Where is Sandra? 	 bedroom 	 13 
+John journeyed to the garden. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Daniel went back to the garden. 
+Daniel journeyed to the kitchen. 
+Where is John? 	 bathroom 	 2 
+Sandra travelled to the kitchen. 
+Sandra moved to the hallway. 
+Where is Daniel? 	 kitchen 	 5 
+Sandra travelled to the bedroom. 
+John went back to the office. 
+Where is Sandra? 	 bedroom 	 10 
+Mary went back to the kitchen. 
+Mary moved to the hallway. 
+Where is Sandra? 	 bedroom 	 10 
+Daniel went back to the bedroom. 
+Sandra went to the garden. 
+Where is Daniel? 	 bedroom 	 1 
+Sandra moved to the kitchen. 
+John travelled to the hallway. 
+Where is Daniel? 	 bedroom 	 1 
+Daniel moved to the kitchen. 
+John journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 4 
+Daniel journeyed to the hallway. 
+Sandra went to the office. 
+Where is John? 	 kitchen 	 8 
+Mary journeyed to the office. 
+Daniel travelled to the garden. 
+Where is Sandra? 	 office 	 11 
+John travelled to the hallway. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Sandra moved to the kitchen. 
+John journeyed to the bedroom. 
+Where is John? 	 bedroom 	 5 
+Daniel journeyed to the hallway. 
+John journeyed to the bathroom. 
+Where is Daniel? 	 hallway 	 7 
+Daniel moved to the bedroom. 
+Mary went to the bathroom. 
+Where is Daniel? 	 bedroom 	 10 
+Mary went back to the bedroom. 
+Sandra went to the bathroom. 
+Where is Daniel? 	 bedroom 	 10 
+John went back to the hallway. 
+Sandra went to the kitchen. 
+Where is John? 	 hallway 	 1 
+Daniel went back to the bedroom. 
+Mary moved to the kitchen. 
+Where is John? 	 hallway 	 1 
+John journeyed to the bedroom. 
+Daniel went to the garden. 
+Where is Daniel? 	 garden 	 8 
+Daniel went back to the kitchen. 
+John went back to the garden. 
+Where is Daniel? 	 kitchen 	 10 
+John went to the bathroom. 
+Mary journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 14 
+Sandra travelled to the bedroom. 
+Daniel went to the bedroom. 
+Where is Sandra? 	 bedroom 	 1 
+Sandra journeyed to the garden. 
+Daniel went back to the hallway. 
+Where is Sandra? 	 garden 	 4 
+Sandra travelled to the office. 
+John travelled to the bathroom. 
+Where is Daniel? 	 hallway 	 5 
+Mary went to the bedroom. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 11 
+Sandra went to the bedroom. 
+Sandra went to the garden. 
+Where is Mary? 	 bedroom 	 10 
+Sandra went back to the bathroom. 
+Sandra journeyed to the office. 
+Where is Sandra? 	 office 	 2 
+Mary travelled to the hallway. 
+Daniel went to the office. 
+Where is Mary? 	 hallway 	 4 
+Mary journeyed to the garden. 
+John travelled to the office. 
+Where is John? 	 office 	 8 
+Sandra moved to the kitchen. 
+John moved to the garden. 
+Where is John? 	 garden 	 11 
+Daniel moved to the garden. 
+John went to the bathroom. 
+Where is John? 	 bathroom 	 14 
+Mary went to the bathroom. 
+Sandra went back to the bathroom. 
+Where is Sandra? 	 bathroom 	 2 
+Sandra moved to the office. 
+John journeyed to the hallway. 
+Where is Sandra? 	 office 	 4 
+Daniel went to the hallway. 
+Daniel went back to the garden. 
+Where is Sandra? 	 office 	 4 
+Sandra journeyed to the bathroom. 
+Sandra moved to the hallway. 
+Where is Daniel? 	 garden 	 8 
+Sandra travelled to the garden. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 14 
+John journeyed to the bathroom. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Mary journeyed to the office. 
+Sandra moved to the bedroom. 
+Where is Sandra? 	 bedroom 	 5 
+Mary went to the kitchen. 
+John travelled to the garden. 
+Where is Mary? 	 kitchen 	 7 
+John moved to the bathroom. 
+Sandra travelled to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Mary travelled to the office. 
+John journeyed to the office. 
+Where is John? 	 office 	 14 
+Sandra went back to the bedroom. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 2 
+John journeyed to the kitchen. 
+Sandra went to the office. 
+Where is John? 	 kitchen 	 4 
+John moved to the hallway. 
+Sandra went back to the garden. 
+Where is John? 	 hallway 	 7 
+John went back to the kitchen. 
+Daniel journeyed to the bedroom. 
+Where is Sandra? 	 garden 	 8 
+John went to the bathroom. 
+Sandra moved to the bedroom. 
+Where is Daniel? 	 bedroom 	 11 
+Sandra journeyed to the office. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Mary went to the kitchen. 
+John journeyed to the office. 
+Where is Sandra? 	 office 	 1 
+Daniel went back to the bathroom. 
+John went to the garden. 
+Where is Daniel? 	 bathroom 	 7 
+Mary journeyed to the office. 
+Daniel went to the garden. 
+Where is John? 	 garden 	 8 
+Daniel travelled to the bathroom. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 14 
+Daniel went back to the office. 
+Sandra moved to the bathroom. 
+Where is Daniel? 	 office 	 1 
+Sandra travelled to the kitchen. 
+Mary went to the kitchen. 
+Where is Sandra? 	 kitchen 	 4 
+Daniel travelled to the bathroom. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Daniel travelled to the bedroom. 
+Sandra went back to the office. 
+Where is Mary? 	 kitchen 	 5 
+John moved to the hallway. 
+Daniel travelled to the hallway. 
+Where is Sandra? 	 office 	 11 
+Mary journeyed to the bathroom. 
+John went back to the garden. 
+Where is John? 	 garden 	 2 
+Mary went to the office. 
+John went back to the bedroom. 
+Where is Mary? 	 office 	 4 
+John journeyed to the bathroom. 
+Sandra journeyed to the bathroom. 
+Where is Mary? 	 office 	 4 
+Sandra moved to the kitchen. 
+John went to the office. 
+Where is Sandra? 	 kitchen 	 10 
+John travelled to the bedroom. 
+John went back to the bathroom. 
+Where is John? 	 bathroom 	 14 
+Daniel went back to the bedroom. 
+John went back to the bedroom. 
+Where is Daniel? 	 bedroom 	 1 
+John went back to the bathroom. 
+Mary journeyed to the hallway. 
+Where is John? 	 bathroom 	 4 
+Daniel travelled to the bathroom. 
+Mary went to the garden. 
+Where is John? 	 bathroom 	 4 
+John travelled to the hallway. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 11 
+Daniel went to the bedroom. 
+Daniel went back to the garden. 
+Where is John? 	 bedroom 	 11 
+John journeyed to the garden. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Mary moved to the kitchen. 
+Mary went back to the bedroom. 
+Where is Mary? 	 bedroom 	 5 
+John went to the hallway. 
+John went to the kitchen. 
+Where is Mary? 	 bedroom 	 5 
+Mary travelled to the kitchen. 
+Sandra went back to the bathroom. 
+Where is Mary? 	 kitchen 	 10 
+John travelled to the garden. 
+Mary moved to the bathroom. 
+Where is John? 	 garden 	 13 
+John went to the garden. 
+Sandra travelled to the garden. 
+Where is John? 	 garden 	 1 
+John travelled to the bedroom. 
+John travelled to the office. 
+Where is Sandra? 	 garden 	 2 
+John went back to the kitchen. 
+Mary travelled to the hallway. 
+Where is John? 	 kitchen 	 7 
+Daniel travelled to the hallway. 
+John travelled to the garden. 
+Where is Mary? 	 hallway 	 8 
+Daniel journeyed to the office. 
+Sandra went to the bathroom. 
+Where is Sandra? 	 bathroom 	 14 
+Daniel journeyed to the garden. 
+John moved to the garden. 
+Where is Daniel? 	 garden 	 1 
+Sandra moved to the bedroom. 
+John went back to the office. 
+Where is Daniel? 	 garden 	 1 
+John went back to the bedroom. 
+Daniel went back to the bedroom. 
+Where is Daniel? 	 bedroom 	 8 
+John went to the office. 
+Sandra went to the garden. 
+Where is John? 	 office 	 10 
+Mary went back to the bathroom. 
+Daniel went to the garden. 
+Where is Sandra? 	 garden 	 11 
+Mary travelled to the garden. 
+John went back to the kitchen. 
+Where is Mary? 	 garden 	 1 
+Sandra journeyed to the office. 
+Sandra journeyed to the hallway. 
+Where is Sandra? 	 hallway 	 5 
+John travelled to the bathroom. 
+Sandra moved to the office. 
+Where is Sandra? 	 office 	 8 
+Sandra moved to the kitchen. 
+Daniel went back to the bathroom. 
+Where is Sandra? 	 kitchen 	 10 
+Daniel journeyed to the garden. 
+John went back to the bedroom. 
+Where is Sandra? 	 kitchen 	 10 
+Daniel went to the garden. 
+Daniel journeyed to the bathroom. 
+Where is Daniel? 	 bathroom 	 2 
+Mary journeyed to the garden. 
+Sandra went back to the garden. 
+Where is Sandra? 	 garden 	 5 
+Mary went back to the bedroom. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Daniel went to the office. 
+Mary journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 11 
+Sandra travelled to the bathroom. 
+Mary travelled to the garden. 
+Where is Mary? 	 garden 	 14 
+Daniel went to the bathroom. 
+Mary travelled to the bathroom. 
+Where is Mary? 	 bathroom 	 2 
+John went to the office. 
+John journeyed to the kitchen. 
+Where is John? 	 kitchen 	 5 
+Sandra went to the hallway. 
+Sandra travelled to the garden. 
+Where is John? 	 kitchen 	 5 
+Daniel journeyed to the office. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 11 
+Mary moved to the garden. 
+Daniel went to the kitchen. 
+Where is Daniel? 	 kitchen 	 14 
+Sandra journeyed to the kitchen. 
+John moved to the hallway. 
+Where is Sandra? 	 kitchen 	 1 
+Daniel went back to the hallway. 
+Mary went to the bathroom. 
+Where is Sandra? 	 kitchen 	 1 
+John travelled to the garden. 
+Mary moved to the hallway. 
+Where is John? 	 garden 	 7 
+Mary went back to the bedroom. 
+Daniel went to the office. 
+Where is Mary? 	 bedroom 	 10 
+Daniel went back to the garden. 
+Sandra moved to the bathroom. 
+Where is Mary? 	 bedroom 	 10 
+Mary went to the bathroom. 
+Daniel moved to the office. 
+Where is Mary? 	 bathroom 	 1 
+Sandra journeyed to the office. 
+John travelled to the garden. 
+Where is Daniel? 	 office 	 2 
+John went back to the hallway. 
+John moved to the office. 
+Where is John? 	 office 	 8 
+Sandra travelled to the kitchen. 
+Sandra journeyed to the bedroom. 
+Where is John? 	 office 	 8 
+Sandra went to the garden. 
+Daniel went to the hallway. 
+Where is John? 	 office 	 8 
+Daniel went back to the office. 
+John went to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Mary went to the kitchen. 
+Daniel moved to the garden. 
+Where is John? 	 bedroom 	 2 
+Daniel travelled to the office. 
+Mary journeyed to the office. 
+Where is Daniel? 	 office 	 7 
+Daniel went to the bathroom. 
+Mary went back to the kitchen. 
+Where is Daniel? 	 bathroom 	 10 
+John went to the office. 
+John moved to the garden. 
+Where is Mary? 	 kitchen 	 11 
+Daniel went back to the hallway. 
+Mary went to the bathroom. 
+Where is Mary? 	 bathroom 	 2 
+John travelled to the hallway. 
+Mary went to the office. 
+Where is Mary? 	 office 	 5 
+Sandra travelled to the bathroom. 
+Sandra journeyed to the hallway. 
+Where is Sandra? 	 hallway 	 8 
+Daniel journeyed to the bathroom. 
+Daniel moved to the bedroom. 
+Where is Sandra? 	 hallway 	 8 
+Mary journeyed to the hallway. 
+Daniel travelled to the bathroom. 
+Where is Sandra? 	 hallway 	 8 
+Mary travelled to the bathroom. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+John moved to the bedroom. 
+Sandra went to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+Daniel went back to the garden. 
+Mary went back to the kitchen. 
+Where is Mary? 	 kitchen 	 8 
+Mary moved to the bathroom. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 11 
+Daniel went to the bathroom. 
+Sandra went back to the garden. 
+Where is Daniel? 	 bathroom 	 13 
+Sandra journeyed to the hallway. 
+John went back to the garden. 
+Where is John? 	 garden 	 2 
+Daniel journeyed to the office. 
+Mary journeyed to the bathroom. 
+Where is Mary? 	 bathroom 	 5 
+John went to the kitchen. 
+Mary journeyed to the office. 
+Where is Daniel? 	 office 	 4 
+John journeyed to the bathroom. 
+Sandra went to the office. 
+Where is John? 	 bathroom 	 10 
+Daniel moved to the hallway. 
+John journeyed to the hallway. 
+Where is John? 	 hallway 	 14 
+Sandra travelled to the bedroom. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+Sandra moved to the hallway. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 5 
+Mary went to the bathroom. 
+John moved to the office. 
+Where is Sandra? 	 bathroom 	 5 
+Sandra went back to the office. 
+Mary travelled to the hallway. 
+Where is Sandra? 	 office 	 10 
+Mary went to the garden. 
+Daniel moved to the office. 
+Where is Mary? 	 garden 	 13 
+Mary went back to the bathroom. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 2 
+Sandra went back to the bedroom. 
+Daniel moved to the bathroom. 
+Where is Mary? 	 garden 	 2 
+Mary moved to the hallway. 
+Daniel went to the hallway. 
+Where is Sandra? 	 bedroom 	 4 
+Daniel went to the bedroom. 
+Sandra journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Mary journeyed to the bedroom. 
+Sandra journeyed to the garden. 
+Where is Daniel? 	 bedroom 	 10 
+Mary moved to the hallway. 
+Daniel travelled to the hallway. 
+Where is Mary? 	 hallway 	 1 
+John went back to the hallway. 
+John went to the office. 
+Where is Mary? 	 hallway 	 1 
+John moved to the kitchen. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 8 
+Sandra travelled to the garden. 
+Sandra went to the bathroom. 
+Where is John? 	 bathroom 	 8 
+Daniel moved to the bathroom. 
+John went to the office. 
+Where is John? 	 office 	 14 
+Mary moved to the hallway. 
+John travelled to the garden. 
+Where is Mary? 	 hallway 	 1 
+Daniel travelled to the garden. 
+Daniel went to the office. 
+Where is Mary? 	 hallway 	 1 
+Daniel moved to the bathroom. 
+Sandra went back to the office. 
+Where is Daniel? 	 bathroom 	 7 
+Mary went back to the garden. 
+Mary moved to the hallway. 
+Where is Sandra? 	 office 	 8 
+John travelled to the hallway. 
+John went to the kitchen. 
+Where is Mary? 	 hallway 	 11 
+John travelled to the bathroom. 
+John travelled to the garden. 
+Where is John? 	 garden 	 2 
+Daniel journeyed to the office. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 5 
+John travelled to the kitchen. 
+Mary journeyed to the bedroom. 
+Where is John? 	 kitchen 	 7 
+Mary moved to the hallway. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 11 
+Daniel went back to the hallway. 
+Sandra went to the bathroom. 
+Where is Daniel? 	 hallway 	 13 
+John journeyed to the bedroom. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+Daniel went back to the hallway. 
+Mary went to the hallway. 
+Where is Mary? 	 hallway 	 5 
+Daniel travelled to the kitchen. 
+Daniel went to the office. 
+Where is Daniel? 	 office 	 8 
+Daniel travelled to the bedroom. 
+Sandra went to the office. 
+Where is Mary? 	 hallway 	 5 
+Mary went back to the bathroom. 
+Mary journeyed to the office. 
+Where is Sandra? 	 office 	 11 
+Sandra moved to the bedroom. 
+Daniel journeyed to the garden. 
+Where is Daniel? 	 garden 	 2 
+Mary moved to the bedroom. 
+Sandra went back to the hallway. 
+Where is Sandra? 	 hallway 	 5 
+John went to the office. 
+Sandra went back to the bathroom. 
+Where is Daniel? 	 garden 	 2 
+Sandra went back to the kitchen. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 11 
+John moved to the garden. 
+Daniel went to the bedroom. 
+Where is Sandra? 	 office 	 11 
+Sandra went to the garden. 
+John travelled to the office. 
+Where is Sandra? 	 garden 	 1 
+Sandra went back to the hallway. 
+Mary went back to the office. 
+Where is John? 	 office 	 2 
+Mary moved to the kitchen. 
+Mary went back to the bathroom. 
+Where is Mary? 	 bathroom 	 8 
+Mary travelled to the garden. 
+Daniel went back to the kitchen. 
+Where is Mary? 	 garden 	 10 
+Sandra travelled to the kitchen. 
+Daniel travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 14 
+John went back to the bedroom. 
+Sandra journeyed to the bathroom. 
+Where is John? 	 bedroom 	 1 
+Sandra went to the hallway. 
+Mary went back to the hallway. 
+Where is John? 	 bedroom 	 1 
+Mary moved to the kitchen. 
+Daniel went back to the hallway. 
+Where is Sandra? 	 hallway 	 4 
+Daniel travelled to the bedroom. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 11 
+Sandra travelled to the garden. 
+John went back to the hallway. 
+Where is Daniel? 	 bedroom 	 10 
+Sandra moved to the bedroom. 
+John went to the hallway. 
+Where is John? 	 hallway 	 2 
+Sandra travelled to the office. 
+Sandra moved to the bathroom. 
+Where is Sandra? 	 bathroom 	 5 
+John went back to the garden. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 8 
+Daniel travelled to the garden. 
+Mary went back to the bathroom. 
+Where is John? 	 bathroom 	 8 
+John moved to the kitchen. 
+Daniel went back to the bedroom. 
+Where is John? 	 kitchen 	 13 
+John moved to the bathroom. 
+John travelled to the garden. 
+Where is John? 	 garden 	 2 
+Sandra travelled to the hallway. 
+Daniel moved to the kitchen. 
+Where is John? 	 garden 	 2 
+Sandra journeyed to the office. 
+Mary moved to the bathroom. 
+Where is Daniel? 	 kitchen 	 5 
+Daniel went back to the hallway. 
+Mary journeyed to the kitchen. 
+Where is Sandra? 	 office 	 7 
+John moved to the bathroom. 
+Daniel travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 14 
+Daniel journeyed to the bedroom. 
+Sandra went back to the office. 
+Where is Daniel? 	 bedroom 	 1 
+Daniel travelled to the garden. 
+John went back to the bathroom. 
+Where is John? 	 bathroom 	 5 
+Mary travelled to the kitchen. 
+John went to the hallway. 
+Where is John? 	 hallway 	 8 
+John travelled to the office. 
+Daniel went back to the bathroom. 
+Where is John? 	 office 	 10 
+Mary travelled to the hallway. 
+John went to the kitchen. 
+Where is John? 	 kitchen 	 14 
+Sandra went to the bedroom. 
+Sandra travelled to the office. 
+Where is Sandra? 	 office 	 2 
+Daniel went back to the garden. 
+Mary travelled to the bedroom. 
+Where is Sandra? 	 office 	 2 
+John journeyed to the garden. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Mary went back to the garden. 
+Mary journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 11 
+Sandra went back to the kitchen. 
+Sandra went to the garden. 
+Where is Daniel? 	 hallway 	 8 
+Daniel went back to the hallway. 
+Daniel travelled to the garden. 
+Where is Daniel? 	 garden 	 2 
+Sandra went to the office. 
+Sandra journeyed to the kitchen. 
+Where is Daniel? 	 garden 	 2 
+John moved to the office. 
+Daniel journeyed to the bathroom. 
+Where is John? 	 office 	 7 
+John went to the bathroom. 
+Mary travelled to the garden. 
+Where is Sandra? 	 kitchen 	 5 
+Mary went to the bathroom. 
+Sandra travelled to the bathroom. 
+Where is Mary? 	 bathroom 	 13 
+Sandra went back to the office. 
+John moved to the bathroom. 
+Where is Sandra? 	 office 	 1 
+Sandra journeyed to the bedroom. 
+Mary journeyed to the bathroom. 
+Where is Sandra? 	 bedroom 	 4 
+John journeyed to the bedroom. 
+Daniel moved to the office. 
+Where is Mary? 	 bathroom 	 5 
+Mary went to the garden. 
+Daniel moved to the garden. 
+Where is Daniel? 	 garden 	 11 
+Daniel travelled to the hallway. 
+Mary journeyed to the kitchen. 
+Where is Daniel? 	 hallway 	 13 
+Sandra travelled to the kitchen. 
+Daniel travelled to the bathroom. 
+Where is Sandra? 	 kitchen 	 1 
+John went to the hallway. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 bathroom 	 2 
+John journeyed to the kitchen. 
+Mary went back to the office. 
+Where is John? 	 kitchen 	 7 
+John journeyed to the garden. 
+Daniel travelled to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+John journeyed to the bedroom. 
+Daniel went back to the bathroom. 
+Where is John? 	 bedroom 	 13 
+Daniel went to the bathroom. 
+John went to the garden. 
+Where is Daniel? 	 bathroom 	 1 
+John went back to the bedroom. 
+Mary journeyed to the office. 
+Where is John? 	 bedroom 	 4 
+Daniel moved to the kitchen. 
+John journeyed to the office. 
+Where is John? 	 office 	 8 
+Mary journeyed to the kitchen. 
+Sandra travelled to the bathroom. 
+Where is John? 	 office 	 8 
+Sandra went to the hallway. 
+Daniel went back to the bedroom. 
+Where is Mary? 	 kitchen 	 10 
+Mary went to the garden. 
+Daniel journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 2 
+John moved to the kitchen. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 5 
+Mary journeyed to the kitchen. 
+Mary moved to the bathroom. 
+Where is John? 	 bathroom 	 5 
+Sandra journeyed to the hallway. 
+Mary went back to the hallway. 
+Where is John? 	 bathroom 	 5 
+Sandra journeyed to the bathroom. 
+Daniel went to the office. 
+Where is Daniel? 	 office 	 14 
+John went back to the bedroom. 
+Daniel journeyed to the hallway. 
+Where is John? 	 bedroom 	 1 
+Mary went back to the hallway. 
+Daniel went to the office. 
+Where is Daniel? 	 office 	 5 
+John journeyed to the hallway. 
+Sandra went to the kitchen. 
+Where is Daniel? 	 office 	 5 
+Sandra went back to the hallway. 
+John moved to the bathroom. 
+Where is John? 	 bathroom 	 11 
+Mary went to the office. 
+John travelled to the garden. 
+Where is Sandra? 	 hallway 	 10 
+John travelled to the office. 
+Mary went to the bathroom. 
+Where is John? 	 office 	 1 
+Mary went to the kitchen. 
+Mary journeyed to the bathroom. 
+Where is John? 	 office 	 1 
+Mary went to the hallway. 
+Sandra travelled to the bedroom. 
+Where is Mary? 	 hallway 	 7 
+John moved to the kitchen. 
+Sandra journeyed to the garden. 
+Where is Mary? 	 hallway 	 7 
+Mary went to the office. 
+Daniel travelled to the hallway. 
+Where is Sandra? 	 garden 	 11 
+Sandra travelled to the office. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 2 
+John journeyed to the bathroom. 
+John moved to the bedroom. 
+Where is Sandra? 	 garden 	 2 
+Mary went to the hallway. 
+John journeyed to the office. 
+Where is Sandra? 	 garden 	 2 
+Daniel journeyed to the kitchen. 
+Mary moved to the kitchen. 
+Where is John? 	 office 	 8 
+Mary went back to the bathroom. 
+Mary journeyed to the garden. 
+Where is Mary? 	 garden 	 14 
+Daniel travelled to the office. 
+Sandra went back to the office. 
+Where is Daniel? 	 office 	 1 
+Mary went to the office. 
+Daniel moved to the bathroom. 
+Where is Sandra? 	 office 	 2 
+John went to the hallway. 
+Sandra moved to the bedroom. 
+Where is Mary? 	 office 	 4 
+Sandra travelled to the office. 
+John went back to the garden. 
+Where is Sandra? 	 office 	 10 
+John went to the hallway. 
+Mary went to the bathroom. 
+Where is Sandra? 	 office 	 10 
+Sandra went to the hallway. 
+Daniel moved to the garden. 
+Where is Sandra? 	 hallway 	 1 
+Daniel went back to the bathroom. 
+Mary went to the bedroom. 
+Where is Daniel? 	 bathroom 	 4 
+Mary moved to the office. 
+Sandra travelled to the bedroom. 
+Where is Mary? 	 office 	 7 
+Mary travelled to the garden. 
+Mary journeyed to the kitchen. 
+Where is Sandra? 	 bedroom 	 8 
+Mary went to the office. 
+Sandra moved to the office. 
+Where is Mary? 	 office 	 13 
+Mary journeyed to the garden. 
+John went back to the garden. 
+Where is John? 	 garden 	 2 
+Mary moved to the office. 
+John moved to the bedroom. 
+Where is John? 	 bedroom 	 5 
+Sandra travelled to the bathroom. 
+Sandra moved to the garden. 
+Where is John? 	 bedroom 	 5 
+Daniel went to the bedroom. 
+Daniel travelled to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+Mary moved to the bathroom. 
+Sandra went back to the kitchen. 
+Where is Daniel? 	 hallway 	 11 
+John journeyed to the kitchen. 
+Sandra moved to the garden. 
+Where is Sandra? 	 garden 	 2 
+Daniel travelled to the office. 
+John moved to the bedroom. 
+Where is Sandra? 	 garden 	 2 
+Sandra journeyed to the hallway. 
+Mary travelled to the garden. 
+Where is Daniel? 	 office 	 4 
+John went back to the kitchen. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+Mary travelled to the hallway. 
+Daniel journeyed to the kitchen. 
+Where is Mary? 	 hallway 	 13 
+Daniel went to the bedroom. 
+Daniel journeyed to the office. 
+Where is Daniel? 	 office 	 2 
+Daniel travelled to the bathroom. 
+Mary went to the office. 
+Where is Mary? 	 office 	 5 
+John journeyed to the bedroom. 
+Daniel went back to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+John went to the garden. 
+Daniel travelled to the office. 
+Where is John? 	 garden 	 10 
+John travelled to the office. 
+Mary travelled to the bathroom. 
+Where is Daniel? 	 office 	 11 
+John went back to the bathroom. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+John went to the garden. 
+John went to the bedroom. 
+Where is Sandra? 	 garden 	 2 
+Sandra went to the office. 
+Daniel went to the bathroom. 
+Where is Daniel? 	 bathroom 	 8 
+Mary travelled to the kitchen. 
+John went back to the hallway. 
+Where is John? 	 hallway 	 11 
+Sandra moved to the bedroom. 
+Sandra journeyed to the bathroom. 
+Where is Daniel? 	 bathroom 	 8 
+John journeyed to the garden. 
+Sandra journeyed to the office. 
+Where is Sandra? 	 office 	 2 
+Mary journeyed to the bathroom. 
+Daniel went to the hallway. 
+Where is Mary? 	 bathroom 	 4 
+Mary went back to the kitchen. 
+Mary went back to the bedroom. 
+Where is Mary? 	 bedroom 	 8 
+Mary went back to the bathroom. 
+John went back to the kitchen. 
+Where is Mary? 	 bathroom 	 10 
+John moved to the hallway. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 14 
+Daniel went back to the bedroom. 
+Mary went to the garden. 
+Where is Mary? 	 garden 	 2 
+Sandra went to the kitchen. 
+Sandra went back to the bathroom. 
+Where is Sandra? 	 bathroom 	 5 
+John journeyed to the bedroom. 
+John went back to the hallway. 
+Where is Mary? 	 garden 	 2 
+Sandra went to the kitchen. 
+Mary went to the bathroom. 
+Where is Sandra? 	 kitchen 	 10 
+Sandra went back to the office. 
+Mary journeyed to the bedroom. 
+Where is Mary? 	 bedroom 	 14 
+Daniel went to the hallway. 
+John travelled to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Daniel moved to the bedroom. 
+Daniel went to the bathroom. 
+Where is John? 	 bathroom 	 2 
+Sandra travelled to the garden. 
+Sandra went to the hallway. 
+Where is Daniel? 	 bathroom 	 5 
+Daniel journeyed to the office. 
+John moved to the garden. 
+Where is Daniel? 	 office 	 10 
+Daniel went back to the hallway. 
+John moved to the bedroom. 
+Where is Sandra? 	 hallway 	 8 
+Mary went to the garden. 
+Sandra journeyed to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary journeyed to the bathroom. 
+Daniel went to the office. 
+Where is Sandra? 	 garden 	 2 
+John went back to the garden. 
+John travelled to the office. 
+Where is Daniel? 	 office 	 5 
+John moved to the bedroom. 
+John travelled to the kitchen. 
+Where is John? 	 kitchen 	 11 
+Mary travelled to the kitchen. 
+Daniel journeyed to the bathroom. 
+Where is John? 	 kitchen 	 11 
+Sandra went to the bedroom. 
+John travelled to the office. 
+Where is Sandra? 	 bedroom 	 1 
+John travelled to the bedroom. 
+Sandra went back to the kitchen. 
+Where is John? 	 bedroom 	 4 
+Sandra went back to the garden. 
+John went back to the office. 
+Where is Sandra? 	 garden 	 7 
+Daniel went to the hallway. 
+Daniel went to the bathroom. 
+Where is Sandra? 	 garden 	 7 
+Daniel travelled to the kitchen. 
+Daniel travelled to the garden. 
+Where is John? 	 office 	 8 
+Daniel journeyed to the bedroom. 
+Sandra journeyed to the kitchen. 
+Where is Daniel? 	 bedroom 	 1 
+Daniel went to the bathroom. 
+Daniel went to the hallway. 
+Where is Daniel? 	 hallway 	 5 
+Daniel travelled to the bathroom. 
+Sandra went to the garden. 
+Where is Daniel? 	 bathroom 	 7 
+Mary moved to the bathroom. 
+Daniel travelled to the bedroom. 
+Where is Daniel? 	 bedroom 	 11 
+Mary travelled to the bedroom. 
+Daniel went to the hallway. 
+Where is Mary? 	 bedroom 	 13 
+Daniel went to the hallway. 
+Daniel went to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+John journeyed to the office. 
+Mary went back to the bedroom. 
+Where is Daniel? 	 bedroom 	 2 
+Mary travelled to the office. 
+John travelled to the bedroom. 
+Where is John? 	 bedroom 	 8 
+Mary went to the hallway. 
+Mary went back to the kitchen. 
+Where is Mary? 	 kitchen 	 11 
+Daniel moved to the hallway. 
+Mary moved to the office. 
+Where is Mary? 	 office 	 14 
+Mary went to the bathroom. 
+Daniel travelled to the bathroom. 
+Where is Mary? 	 bathroom 	 1 
+Mary moved to the garden. 
+Daniel journeyed to the hallway. 
+Where is Mary? 	 garden 	 4 
+John journeyed to the hallway. 
+Mary journeyed to the office. 
+Where is Mary? 	 office 	 8 
+Mary went to the kitchen. 
+John journeyed to the kitchen. 
+Where is Mary? 	 kitchen 	 10 
+Mary travelled to the hallway. 
+Daniel went to the bedroom. 
+Where is Mary? 	 hallway 	 13 
+Sandra went to the hallway. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 2 
+John journeyed to the kitchen. 
+Mary travelled to the bedroom. 
+Where is Mary? 	 bedroom 	 5 
+John went back to the garden. 
+Daniel travelled to the kitchen. 
+Where is Mary? 	 bedroom 	 5 
+Sandra travelled to the bathroom. 
+John went to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Sandra travelled to the office. 
+John journeyed to the hallway. 
+Where is John? 	 hallway 	 14 
+Mary went to the bedroom. 
+John moved to the bathroom. 
+Where is Mary? 	 bedroom 	 1 
+Sandra went back to the office. 
+John travelled to the garden. 
+Where is John? 	 garden 	 5 
+Sandra journeyed to the kitchen. 
+John journeyed to the hallway. 
+Where is John? 	 hallway 	 8 
+Mary went back to the garden. 
+Daniel went to the hallway. 
+Where is John? 	 hallway 	 8 
+Sandra went to the garden. 
+John went to the garden. 
+Where is Mary? 	 garden 	 10 
+John went back to the bedroom. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 2 
+Daniel journeyed to the bathroom. 
+Sandra went back to the kitchen. 
+Where is John? 	 garden 	 2 
+Daniel travelled to the kitchen. 
+Sandra went to the hallway. 
+Where is Daniel? 	 kitchen 	 7 
+Daniel went to the bedroom. 
+Mary moved to the garden. 
+Where is Sandra? 	 hallway 	 8 
+Sandra journeyed to the office. 
+Mary moved to the kitchen. 
+Where is Sandra? 	 office 	 13 
+Mary went back to the kitchen. 
+John went to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Daniel went back to the hallway. 
+Mary moved to the office. 
+Where is Daniel? 	 hallway 	 4 
+Sandra journeyed to the kitchen. 
+Sandra went back to the bathroom. 
+Where is Mary? 	 office 	 5 
+John travelled to the garden. 
+John moved to the hallway. 
+Where is Mary? 	 office 	 5 
+Mary travelled to the kitchen. 
+Daniel travelled to the kitchen. 
+Where is John? 	 hallway 	 11 
+John journeyed to the garden. 
+John went back to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Daniel went back to the office. 
+Daniel went to the bedroom. 
+Where is Daniel? 	 bedroom 	 5 
+Sandra journeyed to the office. 
+Daniel went back to the hallway. 
+Where is Daniel? 	 hallway 	 8 
+Daniel went to the bedroom. 
+John moved to the bathroom. 
+Where is Sandra? 	 office 	 7 
+Sandra journeyed to the bathroom. 
+Sandra journeyed to the bedroom. 
+Where is Daniel? 	 bedroom 	 10 
+John travelled to the garden. 
+Mary journeyed to the office. 
+Where is John? 	 garden 	 1 
+Sandra went to the garden. 
+John went back to the office. 
+Where is John? 	 office 	 5 
+John moved to the bedroom. 
+John moved to the garden. 
+Where is John? 	 garden 	 8 
+Mary went back to the hallway. 
+Sandra travelled to the bathroom. 
+Where is Mary? 	 hallway 	 10 
+John went back to the office. 
+Daniel moved to the kitchen. 
+Where is John? 	 office 	 13 
+Sandra moved to the kitchen. 
+John travelled to the office. 
+Where is John? 	 office 	 2 
+Sandra went back to the garden. 
+John went to the garden. 
+Where is Sandra? 	 garden 	 4 
+Daniel travelled to the garden. 
+Sandra moved to the hallway. 
+Where is Sandra? 	 hallway 	 8 
+Daniel went to the kitchen. 
+Daniel journeyed to the office. 
+Where is John? 	 garden 	 5 
+Sandra went back to the bedroom. 
+Mary moved to the bathroom. 
+Where is Daniel? 	 office 	 11 
+Daniel went back to the office. 
+Daniel travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 2 
+Mary moved to the hallway. 
+Mary moved to the office. 
+Where is Daniel? 	 bathroom 	 2 
+John journeyed to the kitchen. 
+John journeyed to the garden. 
+Where is John? 	 garden 	 8 
+John moved to the hallway. 
+Sandra went to the garden. 
+Where is Mary? 	 office 	 5 
+Daniel moved to the kitchen. 
+John moved to the bathroom. 
+Where is Sandra? 	 garden 	 11 
+Sandra went back to the bathroom. 
+Sandra travelled to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary journeyed to the bathroom. 
+Sandra went to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Daniel journeyed to the office. 
+John went to the garden. 
+Where is Sandra? 	 kitchen 	 5 
+John journeyed to the hallway. 
+John travelled to the bathroom. 
+Where is Daniel? 	 office 	 7 
+John went to the garden. 
+Mary travelled to the office. 
+Where is Mary? 	 office 	 14 
+Daniel moved to the bedroom. 
+Mary travelled to the hallway. 
+Where is Daniel? 	 bedroom 	 1 
+Mary travelled to the bedroom. 
+John travelled to the office. 
+Where is Mary? 	 bedroom 	 4 
+Daniel went to the hallway. 
+Mary travelled to the bathroom. 
+Where is John? 	 office 	 5 
+John moved to the bathroom. 
+John travelled to the garden. 
+Where is Daniel? 	 hallway 	 7 
+John went to the office. 
+Mary travelled to the garden. 
+Where is Mary? 	 garden 	 14 
+Daniel went back to the garden. 
+Mary travelled to the kitchen. 
+Where is Mary? 	 kitchen 	 2 
+Sandra journeyed to the kitchen. 
+Sandra went to the hallway. 
+Where is Sandra? 	 hallway 	 5 
+John went to the bedroom. 
+Mary went back to the garden. 
+Where is Mary? 	 garden 	 8 
+John journeyed to the bathroom. 
+Daniel travelled to the office. 
+Where is Mary? 	 garden 	 8 
+Daniel journeyed to the bedroom. 
+Mary went to the office. 
+Where is Daniel? 	 bedroom 	 13 
+Daniel went back to the bathroom. 
+Mary went to the kitchen. 
+Where is Daniel? 	 bathroom 	 1 
+Mary went to the hallway. 
+Sandra moved to the garden. 
+Where is Mary? 	 hallway 	 4 
+Daniel went back to the hallway. 
+John moved to the office. 
+Where is Daniel? 	 hallway 	 7 
+Sandra journeyed to the kitchen. 
+Mary went to the kitchen. 
+Where is Mary? 	 kitchen 	 11 
+Daniel journeyed to the bedroom. 
+Mary went to the bedroom. 
+Where is Daniel? 	 bedroom 	 13 
+Mary moved to the bathroom. 
+Daniel went to the garden. 
+Where is Mary? 	 bathroom 	 1 
+Daniel journeyed to the bathroom. 
+Daniel journeyed to the office. 
+Where is Daniel? 	 office 	 5 
+Sandra went back to the bathroom. 
+Daniel journeyed to the kitchen. 
+Where is Daniel? 	 kitchen 	 8 
+Mary went back to the garden. 
+Daniel moved to the office. 
+Where is Daniel? 	 office 	 11 
+John moved to the bedroom. 
+Mary travelled to the bathroom. 
+Where is Mary? 	 bathroom 	 14 
+Sandra went to the office. 
+John went back to the bathroom. 
+Where is Sandra? 	 office 	 1 
+Daniel travelled to the office. 
+John went back to the bedroom. 
+Where is Daniel? 	 office 	 4 
+Sandra moved to the kitchen. 
+Sandra went to the garden. 
+Where is John? 	 bedroom 	 5 
+Daniel went back to the bedroom. 
+Sandra journeyed to the office. 
+Where is Sandra? 	 office 	 11 
+Sandra moved to the kitchen. 
+John moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 13 
+Daniel travelled to the bathroom. 
+John travelled to the hallway. 
+Where is John? 	 hallway 	 2 
+Daniel went back to the garden. 
+Sandra went to the hallway. 
+Where is John? 	 hallway 	 2 
+John went back to the bathroom. 
+Sandra moved to the bedroom. 
+Where is Daniel? 	 garden 	 4 
+Mary went to the hallway. 
+Mary travelled to the bedroom. 
+Where is Sandra? 	 bedroom 	 8 
+John journeyed to the kitchen. 
+Daniel went back to the bathroom. 
+Where is Sandra? 	 bedroom 	 8 
+John went back to the kitchen. 
+John journeyed to the bedroom. 
+Where is John? 	 bedroom 	 2 
+Daniel journeyed to the kitchen. 
+Daniel went back to the office. 
+Where is Daniel? 	 office 	 5 
+Daniel travelled to the bathroom. 
+Daniel journeyed to the office. 
+Where is Daniel? 	 office 	 8 
+John moved to the kitchen. 
+Sandra journeyed to the garden. 
+Where is John? 	 kitchen 	 10 
+Daniel went to the hallway. 
+Sandra journeyed to the bathroom. 
+Where is Daniel? 	 hallway 	 13 
+Mary journeyed to the kitchen. 
+Sandra went back to the office. 
+Where is Sandra? 	 office 	 2 
+John moved to the bedroom. 
+Mary travelled to the bathroom. 
+Where is Mary? 	 bathroom 	 5 
+Sandra moved to the bathroom. 
+Mary travelled to the kitchen. 
+Where is Sandra? 	 bathroom 	 7 
+Daniel journeyed to the office. 
+Daniel journeyed to the garden. 
+Where is Mary? 	 kitchen 	 8 
+Daniel travelled to the bedroom. 
+John went back to the kitchen. 
+Where is Daniel? 	 bedroom 	 13 
+John went to the hallway. 
+Sandra travelled to the hallway. 
+Where is John? 	 hallway 	 1 
+Sandra travelled to the kitchen. 
+John went back to the kitchen. 
+Where is John? 	 kitchen 	 5 
+John went back to the garden. 
+Mary moved to the kitchen. 
+Where is Sandra? 	 kitchen 	 4 
+John moved to the hallway. 
+Sandra went to the office. 
+Where is Mary? 	 kitchen 	 8 
+John journeyed to the kitchen. 
+Mary travelled to the garden. 
+Where is Sandra? 	 office 	 11 
+John went back to the office. 
+Daniel went to the bathroom. 
+Where is John? 	 office 	 1 
+John journeyed to the kitchen. 
+Mary went to the bathroom. 
+Where is John? 	 kitchen 	 4 
+Sandra moved to the garden. 
+Daniel went back to the bedroom. 
+Where is Sandra? 	 garden 	 7 
+Sandra moved to the kitchen. 
+Daniel travelled to the garden. 
+Where is Sandra? 	 kitchen 	 10 
+John went back to the office. 
+John went back to the bedroom. 
+Where is John? 	 bedroom 	 14 
+Daniel went to the bathroom. 
+Mary travelled to the hallway. 
+Where is Mary? 	 hallway 	 2 
+John went to the bedroom. 
+John travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 1 
+Mary went to the office. 
+Sandra journeyed to the kitchen. 
+Where is John? 	 bathroom 	 5 
+Mary moved to the bedroom. 
+Daniel went back to the kitchen. 
+Where is Mary? 	 bedroom 	 10 
+Mary moved to the garden. 
+Daniel travelled to the office. 
+Where is Mary? 	 garden 	 13 
+Daniel went back to the garden. 
+Mary travelled to the office. 
+Where is Daniel? 	 garden 	 1 
+Daniel went back to the bedroom. 
+Mary journeyed to the bathroom. 
+Where is Mary? 	 bathroom 	 5 
+Daniel journeyed to the bathroom. 
+Sandra went to the kitchen. 
+Where is Daniel? 	 bathroom 	 7 
+John moved to the bathroom. 
+Mary went to the hallway. 
+Where is Mary? 	 hallway 	 11 
+Daniel moved to the office. 
+John travelled to the kitchen. 
+Where is Sandra? 	 kitchen 	 8 
+Sandra moved to the bathroom. 
+Daniel travelled to the bathroom. 
+Where is Daniel? 	 bathroom 	 2 
+Sandra journeyed to the kitchen. 
+Daniel moved to the kitchen. 
+Where is Daniel? 	 kitchen 	 5 
+Mary travelled to the kitchen. 
+Sandra went to the bathroom. 
+Where is Sandra? 	 bathroom 	 8 
+John went back to the bathroom. 
+Daniel moved to the hallway. 
+Where is Daniel? 	 hallway 	 11 
+Mary went to the garden. 
+John went back to the garden. 
+Where is Daniel? 	 hallway 	 11 
+Daniel journeyed to the bedroom. 
+Sandra journeyed to the bathroom. 
+Where is Daniel? 	 bedroom 	 1 
+John went to the office. 
+Sandra moved to the bedroom. 
+Where is John? 	 office 	 4 
+Mary journeyed to the garden. 
+Mary went to the bedroom. 
+Where is John? 	 office 	 4 
+Daniel went to the bathroom. 
+John travelled to the kitchen. 
+Where is Mary? 	 bedroom 	 8 
+Sandra went back to the bathroom. 
+Sandra went back to the hallway. 
+Where is Sandra? 	 hallway 	 14 
+Mary journeyed to the kitchen. 
+Daniel moved to the bedroom. 
+Where is Mary? 	 kitchen 	 1 
+Mary went to the bathroom. 
+John went to the bathroom. 
+Where is Mary? 	 bathroom 	 4 
+Sandra went back to the bedroom. 
+John went back to the garden. 
+Where is Sandra? 	 bedroom 	 7 
+Sandra travelled to the office. 
+Daniel went to the garden. 
+Where is Sandra? 	 office 	 10 
+Mary moved to the garden. 
+John moved to the kitchen. 
+Where is Mary? 	 garden 	 13 
+Sandra travelled to the garden. 
+John travelled to the kitchen. 
+Where is Sandra? 	 garden 	 1 
+Mary went to the bathroom. 
+Mary travelled to the bedroom. 
+Where is Sandra? 	 garden 	 1 
+Mary journeyed to the office. 
+Daniel went to the bathroom. 
+Where is Mary? 	 office 	 7 
+Sandra journeyed to the bathroom. 
+John went to the bathroom. 
+Where is John? 	 bathroom 	 11 
+John moved to the office. 
+John moved to the bathroom. 
+Where is John? 	 bathroom 	 14 
+Mary moved to the hallway. 
+Sandra went to the garden. 
+Where is Sandra? 	 garden 	 2 
+Mary went back to the kitchen. 
+Sandra journeyed to the kitchen. 
+Where is Sandra? 	 kitchen 	 5 
+Daniel went back to the garden. 
+John went to the garden. 
+Where is John? 	 garden 	 8 
+Mary travelled to the office. 
+Sandra went to the bathroom. 
+Where is Daniel? 	 garden 	 7 
+Mary moved to the garden. 
+Daniel went back to the office. 
+Where is Mary? 	 garden 	 13 
+Sandra moved to the kitchen. 
+John travelled to the kitchen. 
+Where is John? 	 kitchen 	 2 
+Sandra moved to the hallway. 
+Daniel journeyed to the hallway. 
+Where is Sandra? 	 hallway 	 4 
+Sandra travelled to the office. 
+John moved to the bedroom. 
+Where is Sandra? 	 office 	 7 
+Sandra went back to the garden. 
+Sandra travelled to the bathroom. 
+Where is Sandra? 	 bathroom 	 11 
+Sandra moved to the office. 
+Daniel journeyed to the garden. 
+Where is John? 	 bedroom 	 8 
